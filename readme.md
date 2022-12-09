@@ -6,13 +6,13 @@
 注：发布地址可能出现不可用的情况。
 - [ee的文档库](http://book.paperee.guru/#/chatroom-history-book/)（浅色模式，字数统计）
 - [zzChumo的资料库](https://www.zzchat.cf/book.html)（模式随系统，阅读数统计；是最为稳定的版本）
-- [DataEveryting的GitHub仓库](https://github.com/DataeverythingTeam/ChatroomHistoryBook)（历史版本）
 - [4n0n4me的GitHub Page](https://hcwiki.github.io/history/)（较为稳定的版本）
  
 过去的发布地址：
 - ~~[Maggie的知识库](https://docs.thz.cool/#/chatroom-history-book)~~（已下线）
 - ~~[Maggie的wiki](https://wiki.thz.cool/index.php?title=聊天室历史书)~~（因服务器过期，已下线）
 - ~~[Mr\_Zhang的博客](https://mrzhang365.github.io/2022/09/07/聊天室历史书/)~~（已删除）
+- ~~[DataEveryting的GitHub仓库](https://github.com/DataeverythingTeam/ChatroomHistoryBook)~~（已归档，跟进至此仓库）
 
 
 ## 友情站点
