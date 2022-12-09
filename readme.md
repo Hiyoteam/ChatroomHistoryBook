@@ -1,18 +1,19 @@
 # 聊天室历史书
-**版本9.9，于2022年12月3日更新。**
+**版本9.10，于2022年12月9日更新。**
 
 
-## 发布地址
+## 分支地址
 注：发布地址可能出现不可用的情况。
-- [ee的文档库](http://book.paperee.guru/#/chatroom-history-book/)（浅色模式，字数统计）
 - [zzChumo的资料库](https://www.zzchat.cf/book.html)（模式随系统，阅读数统计；是最为稳定的版本）
-- [4n0n4me的GitHub Page](https://hcwiki.github.io/history/)（较为稳定的版本）
+
  
 过去的发布地址：
 - ~~[Maggie的知识库](https://docs.thz.cool/#/chatroom-history-book)~~（已下线）
 - ~~[Maggie的wiki](https://wiki.thz.cool/index.php?title=聊天室历史书)~~（因服务器过期，已下线）
 - ~~[Mr\_Zhang的博客](https://mrzhang365.github.io/2022/09/07/聊天室历史书/)~~（已删除）
 - ~~[DataEveryting的GitHub仓库](https://github.com/DataeverythingTeam/ChatroomHistoryBook)~~（已归档，跟进至此仓库）
+- ~~[4n0n4me的GitHub Page](https://hcwiki.github.io/history/)~~（已归档，跟进至此仓库）
+- ~~[ee的文档库](http://book.paperee.guru/#/chatroom-history-book/)~~（已归档，跟进至此仓库）
 
 
 ## 友情站点
@@ -34,6 +35,7 @@
 
 
 ## 更新内容
+- 合并所有主流聊天室分支，统一版本。(9.10)
 - 更新了GuaWaWa事件、TC电影节。（9.9）
 - 更新了改版客户端的内容。（9.8）
 - 更新了NovelAI热点。（9.7）
@@ -48,7 +50,7 @@
 - 除?bot、?test、?chinese、?china、YC帝国外，频道名均使用小写字母缩写。
 - 文章中出现的所有缩写详见附录[常用语](#常用语)。
 - 这是一本涵盖解说、绯闻及网络攻击的历史书。
-- 若发现任何语病、错字或事实错误，欢迎通过在[DataEveryting的GitHub仓库](https://github.com/DataeverythingTeam/ChatroomHistoryBook)或[HCWiki的GitHub仓库](https://github.com/HCWiki/history)提issue等方式，或在聊天室中联系编辑团队。
+- 若发现任何语病、错字或事实错误，欢迎通过在[此仓库](https://github.com/Hiyoteam/ChatroomHistoryBook/)提issue等方式，或在聊天室中联系编辑团队。
 
 
 ## 编年史
