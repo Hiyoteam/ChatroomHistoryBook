@@ -1957,6 +1957,7 @@ Auto banned hash H2Z2n87sNqfsI35 for 60.0s
 
 &emsp;由于事情发生时，yc大部分协管都在挂机，因此此事件的肇事者并未受到惩罚。Mr\_Zhang动用NoNameBot的协管权限将肇事用户踢出yc，结果他本人却被撤销权限。  
 &emsp;此事件最终以Mr\_Zhang和张酱的惨败而告终，并且让Mr\_Zhang意识到yc一部分人是不欢迎自己的，且多数人相对于支持Mr\_Zhang，更倾向于支持MuRongPIG和Light。 
+&emsp;作为反击，Mr\_Zhang在第二天上午通过不断@bo\_od来进行轰炸，企图让bo\_od刷屏，虽有成效，但值得一提的是他受到了封禁处罚，而昨日的两位却安安稳稳地待在yc。  
  
 
 ## 附录
