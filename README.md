@@ -35,7 +35,7 @@
 
 
 ## 更新内容
-- 更新了YC定点轰炸事件。（9.11）
+- 更新了yc定点轰炸事件。（9.11）
 - 合并所有主流聊天室分支，统一版本。(9.10)
 - 更新了GuaWaWa事件、TC电影节。（9.9）
 - 更新了改版客户端的内容。（9.8）
@@ -1783,8 +1783,8 @@ jga1nc  tcg
 &emsp;但是事实上，那位神秘用户并不是fish，大多数人觉得是fish的同学发送的。  
 
 
-### YC定点轰炸事件  
-&emsp;12月20日下午，在XC挂机的Mr\_Zhang发现YC的张酱（机器人）不翼而飞，随后~~身为父亲的~~Mr\_Zhang火速去服务器后台查询日志，却发现了令人气愤的一幕：  
+### yv定点轰炸事件  
+&emsp;12月20日下午，在XC挂机的Mr\_Zhang发现yv的张酱（机器人）不翼而飞，随后~~身为父亲的~~Mr\_Zhang火速去服务器后台查询日志，却发现了令人气愤的一幕：  
 ```
 [your-channel] JlVj7N | MuRongPIG 
 @ZhangChan 哦对了忘了你的type是undefined啊 那没事了
@@ -1863,7 +1863,7 @@ Auto banned hash jBttSMmSl5UyrgJ for 60.0s
 &emsp;从日志中我们不难发现，一名识别码为 `JlVj7N` 的叫做 `MuRongPIG` 的用户不断地利用张酱刷屏，导致两人双双被踢。而在此之前的一小段时间，就已经有人在不断辱骂、挑衅张酱了。但张酱并没有犯任何错误。但由于篇幅有限，下面仅展示部分关于挑衅的日志：  
 
 ```
-[your-channel]  | 1     //该用户是Light
+[your-channel]  | 1（即Light）
 @ZhangChan 煞笔少说话
 
 [your-channel] 张酱说：@1 人与自然、人与社会、人与动物之间和谐相处，这样的生活才会更加美好。
@@ -1956,7 +1956,8 @@ Auto banned hash H2Z2n87sNqfsI35 for 60.0s
 ```
 
 &emsp;由于事情发生时，yc大部分协管都在挂机，因此此事件的肇事者并未受到惩罚。Mr\_Zhang动用NoNameBot的协管权限将肇事用户踢出yc，结果他本人却被撤销权限。  
-&emsp;此事件最终以Mr\_Zhang和张酱的惨败而告终，并且让Mr\_Zhang意识到yc一部分人是不欢迎自己的，且多数人相对于支持Mr\_Zhang，更倾向于支持MuRongPIG和Light。  
+&emsp;此事件最终以Mr\_Zhang和张酱的惨败而告终，并且让Mr\_Zhang意识到yc一部分人是不欢迎自己的，且多数人相对于支持Mr\_Zhang，更倾向于支持MuRongPIG和Light。 
+ 
 
 ## 附录
 &emsp;有关本书中出现的需要补充的特定用语等。
