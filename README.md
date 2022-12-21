@@ -1780,6 +1780,179 @@ Maggie和小张的讨论是事情的开端，引发了下面的色情讨论，�
 但是事实上，那位神秘用户并不是fish，大多数人觉得是fish的同学发送的。  
 
 
+### YC定点轰炸事件  
+12月20日下午，在XC挂机的小张发现YC的张酱（机器人）不翼而飞，随后~~身为父亲的~~小张火速去服务器后台查询日志，却发现了这个令人气愤的一幕：  
+```
+[your-channel] JlVj7N | MuRongPIG 
+@ZhangChan 哦对了忘了你的type是undefined啊 那没事了
+
+[your-channel] 张酱说：@MuRongPIG 好高深啊
+
+[your-channel] JlVj7N | MuRongPIG 
+@ZhangChan 哦对了忘了你的type是undefined啊 那没事了
+
+[your-channel] 张酱说：@MuRongPIG 张酱正在学习中
+
+[your-channel] JlVj7N | MuRongPIG 
+@ZhangChan 哦对了忘了你的type是undefined啊 那没事了
+
+[your-channel] 张酱说：@MuRongPIG 好高深啊
+
+[your-channel] JlVj7N | MuRongPIG 
+@ZhangChan 哦对了忘了你的type是undefined啊 那没事了
+
+[your-channel] 张酱说：@MuRongPIG 张酱正在学习中
+
+[your-channel] JlVj7N | MuRongPIG 
+@ZhangChan 哦对了忘了你的type是undefined啊 那没事了
+
+[your-channel] 张酱说：@MuRongPIG 张酱不懂
+
+[your-channel] JlVj7N | MuRongPIG 
+@ZhangChan 哦对了忘了你的type是undefined啊 那没事了
+
+[your-channel] 张酱说：@MuRongPIG 张酱不懂
+
+[your-channel] JlVj7N | MuRongPIG 
+@ZhangChan 哦对了忘了你的type是undefined啊 那没事了
+
+[your-channel] 张酱说：@MuRongPIG 张酱不懂
+
+[your-channel] JlVj7N | MuRongPIG 
+@ZhangChan 哦对了忘了你的type是undefined啊 那没事了
+
+[your-channel] 张酱说：@MuRongPIG 张酱不懂
+
+[your-channel] AAfFKK | AfK_Bot 
+ @MuRongPIG AKKKKK!!!!!
+
+[your-channel] JlVj7N | MuRongPIG 
+@ZhangChan 哦对了忘了你的type是undefined啊 那没事了
+
+[your-channel] 张酱说：@MuRongPIG 张酱正在学习中
+
+[your-channel] AAfFKK | AfK_Bot 
+ @ZhangChan AKKKKK!!!!!
+
+[your-channel] 张酱说：@AfK_Bot 张酱正在学习中
+
+[your-channel] JlVj7N | MuRongPIG 
+@ZhangChan 哦对了忘了你的type是undefined啊 那没事了
+
+[your-channel] 张酱说：@MuRongPIG 好吧
+
+[your-channel] JlVj7N | MuRongPIG 
+@ZhangChan 哦对了忘了你的type是undefined啊 那没事了
+
+[your-channel] 张酱说：@MuRongPIG 好高深啊
+
+[your-channel] AAfFKK | AfK_Bot     //指自动踢出MuRongPIG并封禁一分钟
+ @MuRongPIG Bye~
+
+[your-channel] AAfFKK | AfK_Bot 
+Auto banned hash jBttSMmSl5UyrgJ for 60.0s
+
+[your-channel] AAfFKK | AfK_Bot     //指自动踢出ZhangChan并封禁一分钟
+ @ZhangChan Bye~
+
+```
+
+从日志中我们不难发现，一名识别码为 `JlVj7N` 的叫做 `MuRongPIG` 的用户不断地利用张酱刷屏，导致两人双双被踢。而在此之前的一小段时间，就已经有人在不断辱骂、挑衅张酱了。但张酱并没有犯任何错误。但由于篇幅有限，下面仅展示部分关于挑衅的日志：  
+
+```
+[your-channel]  | 1     //该用户是Light
+@ZhangChan 煞笔少说话
+
+[your-channel] 张酱说：@1 人与自然、人与社会、人与动物之间和谐相处，这样的生活才会更加美好。
+
+[your-channel]  | 1 
+@ZhangChan 你踏马找死啊
+
+[your-channel] 张酱说：@1 生活如此美好，为什么要想不开呢？
+
+[your-channel]  | 1 
+@ZhangChan 操你妈
+
+[your-channel] 张酱说：@1 出口成章。
+
+```
+
+还有更令人气愤的：  
+
+```
+//Light去XChat挑衅
+[xq102210] zIq0ra | 不是小黑子     //根据IP归属地以及IP段判断，该用户是Light
+你的小鸡机器人什么时候来
+
+[xq102210] zIq0ra | 不是小黑子 
+张皓然    //小张的真名
+
+```
+
+Light挑衅完毕以后，小张马上重启了张酱，但是效果并不理想：  
+
+```
+[your-channel] 张酱说：welcome yo Chicken
+
+[your-channel]  | Chicken 
+@ZhangChan
+
+//中间省略一大堆日志，于上面的内容基本无差异
+
+[your-channel]  | Chicken 
+@ZhangChan
+
+[your-channel] 张酱说：@Chicken 你说啥？
+
+[your-channel] AAfFKK | AfK_Bot 
+ @Chicken AKKKKK!!!!!
+
+[your-channel] AAfFKK | AfK_Bot     //Chicken被踢
+ @Chicken Bye~
+
+[your-channel]  | Chicken 加入了聊天室
+
+[your-channel] 张酱说：welcome yo Chicken
+
+[your-channel] AAfFKK | AfK_Bot 
+Auto banned hash H2Z2n87sNqfsI35 for 60.0s
+
+[your-channel]  | Chicken 
+@ZhangChan
+
+[your-channel] 张酱说：@Chicken 我听不懂。。。
+
+//中间省略一大堆日志，于上面的内容基本无差异
+
+[your-channel] 张酱说：@Chicken 能换种说法吗？
+
+[your-channel]  | Chicken 
+@ZhangChan
+
+[your-channel] 张酱说：@Chicken 你说啥？
+
+[your-channel] AAfFKK | AfK_Bot 
+ @ZhangChan AKKKKK!!!!!
+
+[your-channel] 张酱说：@AfK_Bot 张酱不懂
+
+[your-channel] AAfFKK | AfK_Bot     //张酱被踢
+ @Chicken AKKKKK!!!!!
+
+```
+
+当有人使用AfK_Bot查询Chicken的身份，AfK_Bot显示：
+
+```
+[your-channel] AAfFKK | AfK_Bot 
+==Aliases== for hash ==5TAwFoAhDgpWPPr==: ['Chicken', 'LightProxy']
+==Trips== for hash ==5TAwFoAhDgpWPPr==: ['']
+
+```
+
+由于事情发生时，yc大部分协管都在挂机，因此此事件的肇事者并未受到惩罚。小张动用NoNameBot的协管权限将肇事用户踢出yc，结果他本人却被撤销权限。  
+此事件最终以小张和张酱的惨败而告终，并且让小张意识到yc一部分人是不欢迎自己的，且多数人相对于支持小张，更倾向于支持MuRongPIG和Light。  
+
 ## 附录
 &emsp;有关本书中出现的需要补充的特定用语等。
 
