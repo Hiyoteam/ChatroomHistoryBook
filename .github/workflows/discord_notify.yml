@@ -35,4 +35,4 @@ jobs:
           # A full discord webhook url
           webhook: ${{ secrets.WEBHOOK_DISCORD }}
           # Message title
-          message-title: 新的聊天室历史书版本已推送。
+          message-title: 新的聊天室历史书版本事件。
