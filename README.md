@@ -4,7 +4,7 @@
 
 ## 分支地址
 注：发布地址可能出现不可用的情况。
-- [zzChumo的资料库](https://www.zzchat.cf/book.html)（模式随系统，阅读数统计；是最为稳定的版本）
+- [zzChumo的资料库](https://www.zzchat.cf/book.html)（模式随系统，阅读数统计；是最为稳定的版本；版本较落后；不经常更新）
 
  
 过去的发布地址：
