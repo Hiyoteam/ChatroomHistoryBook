@@ -2092,3 +2092,4 @@ Auto banned hash H2Z2n87sNqfsI35 for 60.0s
    - awaland：阿瓦国，阿瓦兰。
    - awaish：人造语言阿瓦语。
    - emoji：现下流行的一种表情包。
+   - uwu：同awa。
