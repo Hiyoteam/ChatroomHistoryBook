@@ -31,7 +31,7 @@
 
 
 ## 特别感谢
-- 提出建议的：[Mr\_Zhang](https://mrzhang365.github.io/)、[QiuLingYan](https://qiu-lingyan.github.io/1)、[Light](https://gitee.com/BirdingLight)、[MelonFish](https://xq.kzw.ink/)、[B站的J](https://jspvz.fandom.com/zh/wiki/社区常驻玩家)、[snose](https://jspvz.fandom.com/zh/wiki/社区常驻玩家)、[MuRongPIG](https://github.com/MuRongPIG)、emankicN、Hack4r and you.
+- 提出建议的：[Mr\_Zhang](https://mrzhang365.github.io/)、[QiuLingYan](https://qiu-lingyan.github.io/1)、[Light](https://gitee.com/BirdingLight)、[MelonFish](https://xq.kzw.ink/)、B站的J、snose、[MuRongPIG](https://github.com/MuRongPIG)、emankicN、Hack4r and you.
 
 
 ## 更新内容
@@ -52,7 +52,7 @@
 - 除?bot、?test、?chinese、?china、YC帝国外，频道名均使用小写字母缩写。
 - 文章中出现的所有缩写详见附录[常用语](#常用语)。
 - 这是一本涵盖解说、绯闻及网络攻击的历史书。
-- 若发现任何语病、错字或事实错误，欢迎通过在[此仓库](https://github.com/Hiyoteam/ChatroomHistoryBook/)提issue等方式，或在聊天室中联系编辑团队。
+- 若发现任何语病、错字或事实错误，欢迎通过在[DataEveryting的GitHub仓库](https://github.com/DataeverythingTeam/ChatroomHistoryBook)或[HCWiki的GitHub仓库](https://github.com/HCWiki/history)提issue等方式，或在聊天室中联系编辑团队。
 
 
 ## 编年史
@@ -984,9 +984,15 @@ but it works
 
 &emsp;由于滥用权限，QiuLingYan的管理被撤销。2022年8月26日，QiuLingYan在视频的评论中侮辱了B站的J，甚至没过几天便重新获得管理。B站的J向QiuLingYan质问该年8月16日的IP问题，QiuLingYan却逃避问题，还嘲讽`“B站的J只有4年级”`。
 
-&emsp;B站的J、snose两人与QiuLingYan展开骂战，QiuLingYan将两人禁言。MelonFish介入本事件，B站的J和snose发现XC管理QiuLingYan疑似滥用权限将XC聊天室?jspvz频道的记录清除，试图掩盖证据。讽刺的是，在其以前泄露IP时声称“已关闭记录”时实则并未关闭，而在这次冲突中，他将记录自己发出的消息功能关闭了。
+&emsp;B站的J、snose两人与QiuLingYan展开骂战，QiuLingYan将snose禁言。MelonFish介入本事件，B站的J和snose发现XC管理QiuLingYan疑似滥用权限将XC聊天室?jspvz频道的记录清除，试图掩盖证据。讽刺的是，在其以前泄露IP时声称“已关闭记录”时实则并未关闭，而在这次冲突中，他将记录自己发出的消息功能关闭了。
 
-&emsp;本次事件转载并修改自JSPVZ社区[XChat事件](https://jspvz.fandom.com/zh/wiki/社区/事件#2022年8月16日至2022年8月19日-XChat（一个基于hack.chat的网络聊天室）事件)和[XChat冲突二](https://jspvz.fandom.com/zh/wiki/社区/事件#2022年8月26日-XChat冲突二)。附[事件截图](https://static.wikia.nocookie.net/jspvz/images/6/69/12323434.png/revision/latest?cb=20220817015014&path-prefix=zh)。
+&emsp;2022年8月26日，QiuLingYan在视频的评论中侮辱了B站的J，甚至没过几天便重新获得管理。B站的J向QiuLingYan质问该年8月16日发生的JSPVZ事件，QiuLingYan却逃避问题，还嘲讽`“B站的J只有4年级”`。
+
+> 明明QiuLingYan也是小学生uwu ——ee
+
+&emsp;B站的J、snose两人与QiuLingYan展开骂战，QiuLingYan将两人禁言。后MelonFish介入本事件，B站的J和snose发现XC管理QiuLingYan滥用权限，将历史记录中自己发言的部分删掉，且将XC聊天室?jspvz频道的记录彻底删除，试图掩盖证据。XC名声在JSPVZ进一步恶化。
+
+&emsp;本节内容转载并修改自当时的JSPVZ社区Wiki。
 
 ### lol事件
 &emsp;HC的管理员lol（此处以及**本章节**的下文都不是指的Laugh out loud缩写）一向被认为对中国人不友好，曾经发表反华言论与各种对中国用户不利的言论。本节所述的是2022年8月下旬的lol事件。
@@ -1071,17 +1077,6 @@ im sick and done with all of you morons
 ```
 
 &emsp;8月下旬，zzChumo~~因为喝高了~~在yc公屏辱骂hc管理lol，并称`“美国为世界上最垃圾的国家”`，被lol的眼线发现。lol本人前来对骂，hc管理AnnikaV9也进行了回击。AnnikaV9表示`“我们为你们提供Mod的几乎所有功能，你们却在这里辱骂我们”`。zzChumo将计就计，撤销了自己的协管权限，并在事件结束后使用小号重新添加协管权限。AnnikaV9采用了折中的解决方法，要求lol不再来到yc。后期，lol也没有再来过yc。
-
-### XJ两站冲突
-&emsp;此冲突是[JSPVZ事件](#jspvz事件)后XC方并未给出事情交代、XC管理QiuLingYan与JSPVZ方进一步争吵导致事情恶化的结果。
-
-&emsp;JSPVZ事件期间，B站的J在B站发布声讨XC管理的视频。2022年8月26日，QiuLingYan在视频的评论中侮辱了B站的J，甚至没过几天便重新获得管理。B站的J向QiuLingYan质问该年8月16日发生的JSPVZ事件，QiuLingYan却逃避问题，还嘲讽`“B站的J只有4年级”`。
-
-> 明明QiuLingYan也是小学生uwu ——ee
-
-&emsp;B站的J、snose两人与QiuLingYan展开骂战，QiuLingYan将两人禁言。后MelonFish介入本事件，B站的J和snose发现XC管理QiuLingYan滥用权限，将历史记录中自己发言的部分删掉，且将XC聊天室?jspvz频道的记录彻底删除，试图掩盖证据。XC名声在JSPVZ进一步恶化。
-
-&emsp;本节内容转载并修改自[JSPVZ社区](https://jspvz.fandom.com/zh/wiki/社区/事件#2022年8月26日-XChat冲突)。
 
 
 ### XC演唱会
@@ -2026,9 +2021,6 @@ Auto banned hash H2Z2n87sNqfsI35 for 60.0s
    - [USBot事件.png](https://book.paperee.guru/chatroom-history-book/USBot事件.png)（by.ee）
 
 - JSPVZ事件
-   - [声讨XChat](https://www.bilibili.com/video/BV1Te4y1f7zg/)（by.B站的J）
-   - [XChat事件](https://jspvz.fandom.com/zh/wiki/社区/事件#2022年8月16日至2022年8月19日-XChat（一个基于hack.chat的网络聊天室）事件)（by.B站的J）
-   - [XChat冲突二](https://jspvz.fandom.com/zh/wiki/社区/事件#2022年8月26日-XChat冲突二)（by.B站的J）
    - [12323434.png](https://static.wikia.nocookie.net/jspvz/images/6/69/12323434.png/revision/latest?cb=20220817015014&path-prefix=zh)（by.B站的J）
 
 
@@ -2057,7 +2049,7 @@ Auto banned hash H2Z2n87sNqfsI35 for 60.0s
    - authtrip：受认证的识别码，用于跳过锁房限制及验证码。
 
 - 关联站点
-   - [JSPVZ](http://lonelystar.org/plantsvszombies.htm)：一个由“囧丫乙”创造的复刻植物大战僵尸的网站，拥有一个小型社区。
+   - [JSPVZ](http://lonelystar.org/plantsvszombies.htm)：一个由“囧丫乙”创造的复刻植物大战僵尸的网站。
    - [DOLLARS](https://drrr.com/)：又称drrr，无头骑士同人匿名聊天网站。
 
 - 用户名（记载的不一定是离谱用户）
