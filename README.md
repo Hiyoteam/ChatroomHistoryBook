@@ -19,7 +19,6 @@
 ## 友情站点
 - [zzChumo的HC百科](https://www.zzchat.cf/wiki/)
 - [4n0n4me的HC指南](https://hcwiki.github.io/)
-- [JSPVZ的历史书](https://jspvz.fandom.com/zh/wiki/社区/事件)
 - [DOLLARS的历史书](https://drrr.wiki/事件)
 
 
