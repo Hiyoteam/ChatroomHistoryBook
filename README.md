@@ -1,5 +1,5 @@
 # 聊天室历史书
-**版本9.12，于2023年1月21日更新。**
+**版本9.13，于2023年3月6日由B站的J更新。**
 
 
 ## 分支地址
@@ -24,7 +24,7 @@
 
 ## 编辑团队
 - [4n0n4me](https://www.pillows.net.eu.org/)（主编）
-- [ee](https://paperee.tk)（副主编，修改格式，整理目录）
+- [ee](https://paperee.guru)（副主编，修改格式，整理目录）
 - [Maggie](https://thz.cool/)（项目提出者，修改格式，整理目录）
 - [zzChumo](https://www.zzchat.cf/)（润色，内容补充）
 
@@ -34,6 +34,7 @@
 
 
 ## 更新内容
+- 修正JSPVZ事件相关内容，修正友情链接。（9.13）
 - 修改了十字街的缩写；增加了部分说明。（9.12）
 - 更新了yc定点轰炸事件。（9.11）
 - 合并所有主流聊天室分支，统一版本。(9.10)
@@ -132,11 +133,8 @@
 &emsp;此间造成比较大影响的是hh的拍照事件，起因是hh怀疑在HC活跃的用户都是伪装成普通人的“国宝（网警）”，因此发送偷拍链接在?chinese频道。zzChumo最先中招，然后对ee说这是个美颜相机，ee中招后，又告诉alex这是美颜相机。此三人的头部照片惨遭泄露。
 
 > 浏览器都提醒了还被拍了的初墨是屑。 ——zzChumo  2022年8月
-
 > 要死一起死？？哈哈哈哈哈哈哈哈哈哈哈 ——MaggieLOL  2022年8月
-
 &emsp;自此，该hh使用的偷拍神器，被HC部分老用户用~~来坑蒙拐骗~~试探外国人，最惨的一次，是一位声称自己毕业于华南师范大学的马来小哥~~的智商~~遭到怀疑，连续泄露5张头部照片。当这位马来小哥知道自己被偷拍以后，他甚至还摆了个pose继续拍。
-
 
 ### YC帝国
 &emsp;YC帝国是曾经存在的HC暴力机构，用发送LaTeX特效文字对抗破坏者，且有效治理过HC的风气。记录下的弹药之一是红绿相间的背景和文字，通常文字为“傻逼”（被部分用户戏称为傻逼对联）或绿红相间的方块，发明者是THEWESTSHELL，被MuRongPIG作为轰炸姬（虚拟人物，通过使用多个IP突破频率限制进入聊天室进行刷屏的机器人）刷屏的炸药。
@@ -148,11 +146,8 @@
 &emsp;为维护YC帝国的秩序，zzChumo先后编写了协议SCP-YC-CO001（在YC范围内，除初墨外所有研究员的图像均不应该被暴露。如有暴露，应立即对相关人员进行B级记忆消除，严重时可进行处决）及SCP-YC-CO002（任何人不得把炸药包送给任何不被站点主管zzChumo，MuRongPIG博士和THEWESTSHELL博士认可的人手中。如有违反者，将会对所有相关人员使用致死模因进行抹杀）。
 
 > ~~有点中二呀awa~~ ——Maggie  2022年8月
-
 > ~~这你得吐槽zzChumo，这是他写的uwu~~ ——ee  2022年8月
-
 &emsp;YC帝国成立初期，用户zzChumo曾提议书写YC帝国历史书，可由于学业问题成了当年一个大遗憾。直到2022暑假初期，XC用户Maggie和4n0n4me提议写一个聊天室历史书，才使这段充满遗憾的历史重现展现在众人面前。
-
 &emsp;2022年暑假中期，用户DPG改进轰炸姬，诞生了根据进出原理刷识别码的机器人，加上有用户建议用识别码交换东西（典型为用识别码交换识别码，或者用钱购买识别码），正式掀起了识别码收集（交易）热潮。详见[识别码热潮](#识别码热潮)。
 
 &emsp;另外，关于识别码交易热潮的说明写于2022年7月末，而真正的识别码交易爆发8月初，算是一个非常奇妙的预言了。
@@ -210,9 +205,7 @@
 &emsp;星弈微聊，简称星聊，成立于2021年底，截止至今经历过2次~~差点跑路~~被墙（~~虽然最新的域名还是被江苏反电诈拦截了~~）、3次更换域名。最终在星弈团队的努力下得以存活。
 
 > 但是经过实践，发现根本就不需要DDOS，直接多线程下载就能gank掉星聊的土豆服务器。 ——zzChumo  2022年8月
-
 &emsp;2021寒假期间，星聊站长xmzd在CSC推广其他聊天室（星聊）链接，导致CSC管理不满。经双方多次谈判无果，最终掀起星聊站长xmzd和CSC管理员MuRongPIG的网络战争。MuRongPIG通过DDOS攻击星聊服务器，导致聊天室及站群中大部分网站崩溃。星弈方攻击十字街前端，但因CSC前后端分离而打击无效。此间处于中立地带的HC正是热闹期间，HC成员纷纷发表不同看法。
-
 
 ### 除夕热闹夜
 &emsp;除夕热闹夜，~~又称书名号反叛夜~~。2022年1月31日，YC帝国异常热闹，许多少见的用户都在这天冒出来了，满屏都是“除夕快乐”，伴随着yc用户对新的一年HC的期盼，仿佛能听到近在耳边的、人们的欢声笑语。
@@ -232,25 +225,18 @@ n3CJhb zzChumo
 ```
 7EMhUN CaO
 《今晚一个月工资没了》
-
 n3CJhb Chumo
 《船翻了》
-
 JlVj7N _MuRongPIG_
 《书名号》
-
 eYFDHl eee
 《说翻就翻》
-
 8/tcFc TCmoon（tctd）
 《我们逃出来了》
-
 /nsl0N happy154newyear（154）
 《橙汁滋我衣服上了》
-
 oE1+XQ 3wh5
 《核能》
-
 zK9qyT lIgHt（Light）
 《我是傻逼》
 ```
@@ -260,7 +246,6 @@ zK9qyT lIgHt（Light）
 ```
 JlVj7N _MuRongPIG_
 这届拜年纪基本可以满分了
-
 n3CJhb Chumo
 拜年纪一直可以的
 ```
@@ -298,55 +283,38 @@ n3CJhb Chumo
 ```
 gift 
 好吧，我真的无法心平气和的看待这残渣
-
 nickname123 
 抱紧我，抱紧我，直到有一种幸福的感觉。
-
 villain 
 欸
-
 nickname123 
 我真的需要你来理解我，像个孩子一样。
-
 villain 
 @gift 就像你在看近代史一样平静下来？
-
 nickname123 
 你有什么资格说别人是“残渣”？
-
 mUHx8L  notBot 
 你有什么资格说别人是“残渣”？
-
 Myh1TA  4n0n4me 
 高雅
-
 gift 
 好吧，听你的，我尽量心平气和@villain
-
 Myh1TA  4n0n4me 
 Y/N
-
 Myh1TA  4n0n4me 
 谜语多么迷人
-
 Myh1TA  4n0n4me 
 给我这样的普通人
-
 Myh1TA  4n0n4me 
 深邃的力量
-
 nickname123 
 我打算在黄昏的时候出发，搭一辆车去远方
-
 Myh1TA  4n0n4me 
 Y/N
-
 gift 
 但我或许真的忍不了
-
 villain 
 那可能是因为什么原因
-
 Myh1TA  4n0n4me 
 我在看译制片吗
 ```
@@ -356,22 +324,16 @@ Myh1TA  4n0n4me
 ```
 nickname123 
 哈哈
-
 nickname123 
 真好玩
-
 nickname123 
 死美国佬
-
 nickname123 
 又跑出来了
-
 nickname123 
 你个死美国佬
-
 Myh1TA  4n0n4me 
 @Chumo_WinServer2012R2 你居然在啊
-
 nickname123 
 还装中国人呢
 ```
@@ -381,25 +343,18 @@ nickname123
 ```
 nickname123 
 哈哈哈
-
 nickname123 
 你们这些死美国佬
-
 gift 
 民用版会在城市和区县定位
-
 nickname123 
 行了，我已经知道了。你们是中国人
-
 n3CJhb  Chumo_WinServer2012R2 
 哈哈哈一词不属于中国文言文
-
 Myh1TA  4n0n4me 
 他妈的
-
 n3CJhb  Chumo_WinServer2012R2 
 你不是中国人
-
 nickname123 
 因为，只有中国人才会那么聪明
 ```
@@ -413,9 +368,7 @@ nickname123
 &emsp;在事件前，detele与Light、ee在ycl（HC的your-channell频道，仅有Light、ee、detele、memset0知道的Foolishbird及eebot测试频道，MRGAO曾因在JSPVZ打错yc频道名误入）相处不错，当时Light对外宣传自己是女生，detele也多次表明想追到Light。
 
 > 渣男实锤。 ——zzChumo  2022年8月
-
 &emsp;身为YC帝国领导人之一的zzChumo带头不遵守YC帝国协议、三次擅自曝光ee照片是导火线，详见[YC帝国](#yc帝国)时期。第一次，zzChumo将无打码将照片发给了用户THEWESTSHELL；第二次将脸涂黑发给了wcy等人，wcy自认为ee的照片可以随意传播，便将其发给了detele；第三次出现在detele事件时，zzChumo因为精神崩溃在yc公屏上大量刷ee的照片。
-
 &emsp;照片事件使detele了解到ee的性别，并不停提出要加ee微信，并在加好友不久后。不停在微信上给ee打电话骚扰ee。ee多次提醒，忍无可忍删除了detele好友，detele事件正式爆发。
 
 &emsp;因为所谓的“爱情”，detele长期在yc上刷屏、恳求ee加回好友无果，便开始刷“ee你妈咪死了”等侮辱话语，并被ee曝光，得到13、zzChumo、Lithium、kiddo等人的帮助，在HC7人微信群、十字街官方QQ群等地，掀起了长达两周的大型声讨detele活动。
@@ -431,9 +384,7 @@ nickname123
 &emsp;若干天以后，detele改名Wine\_Corpse，且不再提起此次事件。detele事件迎来了真正的结局。需要额外指出的是，detele即为秋凌烟（QiuLingYan）和Wine\_Corpse（49男朋友），然而其两次改名，反映了其改过自新的愿望，基本上可以认为detele事件也未重演。
 
 > 希望是真正的结局吧。 ——zzChumo 2022年8月
-
 &emsp;2022年8月前，QiuLingYan作为HiyoTeam三名领导人之一（另两位是4n0n4me及ee）。ee并没有准确表达目前对QiuLingYan的态度，但从XC管理员选拔上不支持QiuLingYan成为XC管理员，可以看出ee仅在团队事务上支持QiuLingYan。
-
 &emsp;和平事态的反转发生在8月14日，QiuLingYan，即detele，在[大动乱时期](#大动乱时代)被XC方以一个Mod的代价收买，并直接导致了HiyoTeam的解散。有人认为detele事件发生了重演。
 
 
@@ -452,13 +403,9 @@ nickname123
 &emsp;后期用一句话概况就是：49与三位男生（27、jeck、Wine\_Corpse）间的“爱恨纠缠”。此间49没有表达明确的态度，即便早与Wine\_Corpse确认关系，还依然轮流和27、Wine\_Corpse使用同一个识别码。
 
 > 渣女，气抖冷。 ——zzChumo 2022年8月
-
 &emsp;2022寒假结束后，49、27、jeck等人消失，剩下的绝大部分用户都去了XC。2022暑假开始，49有几次在lo出现，但更改了昵称。2022年8月3日下午，QiuLingYan在XC抱怨49已经半年没联系他了，并表明想与49分手的想法。几天后，QiuLingYan宣布与49分手，回归单身狗，并且不允许ee、13等人在他面前撒狗粮。
-
 > 其实我觉得49有点渣，jeck天天都与49见面先不说，27真的输麻了，QiuLingYan看似是最后的赢家，但他在这场战斗中什么都没得到，甚至我觉得49完全没把他当男朋友。 ——ee 2022年8月
-
 &emsp;当时有一些关于49等用户的传闻，被4n0n4me传播给Light后，Light创作了相关字符画，导致被人反对。最终聊天室开始刷屏。Light充分运用机器人技术，使用Foolishbird机器人在27等用户说话时自动回复骂人语录（骂人功能的[来源见此](#人格分裂)）。Mr\_Zhang制作了ZhangProtector与ZhangKiller等机器人，专门用于进行回击。这几个机器人使得聊天室内一度充满了不忍直视的辱骂和占了巨大的屏幕空间的LaTeX消息。
-
 &emsp;最终，在Sprinkle等人的调节下，Light与Mr\_Zhang和解，两人各自撤掉自己的刷屏机器人。
 
 
@@ -470,8 +417,6 @@ nickname123
 &emsp;目前，Mr\_Zhang与十字街的矛盾依旧没法得到缓和，且由于ZHC的诞生，Mr\_Zhang事件有进一步恶化的趋势。
 
 > 这次事件充分的暴露出了小张记仇、容易过度思考和思想偏执的特性。 ——zzChumo 2022年8月
-
-
 ### HC权限纠纷
 &emsp;在HC中，一般认为有权限的管理员中没有中国人。然而，在智械时期，有破坏行为出现，the\_colorless\_green（TCG）向管理员请求权限以惩治破坏现象。据说，TCG本有可能被任命为管理员（**moderator**），但由于在管理员来到yc时试图推荐4n0n4me，最终，管理员~~认为麻烦~~部署了有管理员权限的ModBot，并授予了TCG与4n0n4me机器人ModBot的使用权。
 
@@ -524,13 +469,9 @@ nickname123
 &emsp;2022年7月22日，受到Qwer用Python未完成的小游戏《鱼的报复计划》的启发，ee使用RPGMarkerVX制作了与之同名的小游戏，并在其基础上移植并完善了剧情，此处为[发布地址](https://home.osww.cn/?p=96)。同是游戏制作人的Bird，使用RPGMarkerMZ二次移植了本游戏，还在全结局收集后加上了~~鸡你太美~~彩蛋。此[网页版](https://game.osww.cn/revenge)被放置于星弈三号服务器上，更加方便了非Windows平台的用户游玩。星聊常驻用户李鱼，使用结绳移植了Bird移植ee移植Qwer的游戏。可惜的是，安卓版只有两个结局。
 
 > 小黑子露出鸡脚了吧（ ——zzChumo 2022年8月
-
 &emsp;鱼的报复计划诞生后，Maggie提出使用Python制作《XC模拟器》游戏，并将代码分享至Microsoft Visual Studio Code的Live Share功能。XC成员对剧情进行讨论和修改，并由4n0n4me移植成[网页版](https://game.osww.cn/xc)。令人遗憾的是，游戏至今没有后续，当初制作游戏的用户也大多在大动乱中离开。
-
 > XC模拟器？广告模拟器！ ——4n0n4me 2022年8月
-
 &emsp;根据麻鸡（Maggie）和傻鸟（Foolishbird）的梗，首款聊天室角色恐怖游戏——Bird的[《麻鸡的恐怖冒险》](https://game.osww.cn/maggie)诞生了。只不过，该游戏依旧只有开头，完结日期指日可待。同时，ee投入了[《麻鸡的拯救计划》](https://game.osww.cn/grrd)的制作，在脱离RM的网页文字游戏方面迈出了一大步。
-
 &emsp;后来，zzChumo制作了网页游戏框架GAF-for-Games，并且作为游戏实例，制作了[《ee的奇妙冒险》](https://www.zzchat.cf/GAF/Game.html)游戏，以纪念前作《麻鸡的拯救计划》。该框架被魔改并用于《麻鸡的拯救计划》后续的制作。
 
 
@@ -552,12 +493,8 @@ nickname123
 &emsp;西阿亚及低瓦斯联合国（West Aya and Low Waas United Nation），简称阿瓦国（awaland），部分用户称为阿瓦兰（awaland的音译）。成立于2022年4月22日，在HC的lo和XC等地广为人知。阿瓦语（awaish）是阿瓦国的语言文字，具体表现为以“a”和“w”两个字母的不同组合来表示简单的意思。除概念外，阿瓦语语言体系创作由4n0n4me执笔。
 
 > 我写的版本并非只有两个字母，~~而且就写了一点点词汇，后来还忘光了~~。 ——4n0n4me 2022年8月
-
 &emsp;传说，阿瓦兰有6个神明，至高、秩序、破坏、自然 纯洁、禁忌、本初（初神）、人类神（亚神）。
-
 > 人类神（亚神） 宇宙诞生之初，本初神出现了。本初神将自己的力量分离出五份，创造了其余五神。自然神的实验创造出结晶，结晶通过演化，出现了智慧神（演化神）和人类。智慧神出现前，除神外的所有生物都没有理智，这段时期称之为“无智时期”。智慧神出现后为真智时期，这是万物皆有理智。众神不想将知识传授给其他生物，但是智慧神却传给了人类，所以智慧神被众神囚禁了，这之后只有人类发展出了文明，这段时期为“只智时期”。 ——TUSK 2022年7月
-
-
 ### XC与Minecraft
 &emsp;2022年五一假期第一天，XC的站长MelonFish为了吃ee和13的瓜，搭建了一个Minecraft服务器。服务端原本处于1.12.2版本，后来升级为1.13.2版本。虽然MelonFish希望ee和13能一同在服务器中~~撒瓜~~游玩，但13进入游戏时有困难，导致鱼没有吃到很多瓜。
 
@@ -568,15 +505,11 @@ nickname123
 &emsp;后来，ee建造了一座十分美丽的小屋。然而DPG用冰铺在小屋的屋顶上方，破坏了小屋的美观程度。4n0n4me等用户清理了冰后，很快发生了一次意外：Light表演落地水时不小心将岩浆从DPG建造的高空冰道倒下，岩浆破坏速度快，Light补救不及，烧毁了小屋。此后，小屋没有被成功重建过，成为了服务器里一个遗憾。ee表示非常难过。
 
 > 是我，DPG带我去高台玩，我想表演落地水，但是我的桶里是岩浆，我就把岩浆倒了，装了水。结果我摔死了，从出生点跑回来的时候，岩浆已经接近烧到DPG的房子。 ——Light 2022年7月
-
 &emsp;由于出生地位于雪原，不利于一些方面的发展，玩家们开拓了其它区域。回档之前，4n0n4me就经常住在东南方向的称为“比邻”的金合欢树林区域、MRGAO曾经住在他发现的村庄“高村”。
-
 &emsp;玩家们建造了各种设施，如ee建造了eebot像素画和出生点小木屋、DPG建造了高空中的冰平台和刷铁轨机、Light建造了一个空中的PVP场地与从雪镇区域通向PVP场地的长长的高空路径、4n0n4me建造了几段下界铁道交通与一座钓鱼机、MRGAO建造了提供药水的好果汁店、zzChumo建造了智障村及雪镇与智障村（zzChumo建立的聚居地）之间的界墙。
 
 > DPG帮我做了天空PVP的观众台，很好看。 ——Light 2022年7月
-
 &emsp;DPG取得OP权限后制作了一些极端的装备，如高级荆棘附魔的屏障方块，曾经使Light、zzChumo等玩家损失成套的顶级装备。玩家们做好屠龙准备后，就前往末地要塞屠龙。当时末影之眼不够，但是因为那是略显难得的许多玩家同时在线的情况，人们用OP权限获取了足够的末影之眼，然后成功屠龙。MRGAO收藏了龙蛋，摆在好果汁店里。
-
 &emsp;有一次，服务器遭到未知玩家破坏，在农田箱子下方埋藏了爆炸物（推测是TNT），还留下了辱骂性的话语。服务器回档了。
 
 &emsp;自五一假期过后，鱼为了防止~~自己~~大家沉迷，选择在上学时间关闭服务器，导致游玩人数一次次减少，MelonFish最终选择关闭服务器。后来，XC的Minecraft服务器多次回档，玩家减少。由于运行Minecraft服务端占用服务器资源较多，容易增大XC被人攻击后崩溃的风险，MelonFish也较少开服务器了。
@@ -644,9 +577,7 @@ dJ77TT Ahxello
 &emsp;2022年7月16日，卢本伟继续在十字街频繁进进出出，用名称进行辱骂，同时使用Mr\_Zhang的真实姓名进行造谣、诋毁Mr\_Zhang和ee、jill等用户及XC和CSC站长，其内容不堪入目。[日志为证](https://file.node2.thz.cool/fileshare/.upload/4c784be700cfe43.log)，性质恶劣，在此感谢Mr\_Zhang的眼线（~~Mr\_Zhang自己~~）记录了这些日志。
 
 > 同志们！抄家伙呀！冲啊！！！反击的时候到了！！！！！！ ——Mr\_Zhang 2022年8月
-
 &emsp;当晚，XC站长MelonFish和xc用户Mr\_Zhang、ee、4n0n4me、dx\_xb（DPG）在HC的yc对卢本伟进行反击，具体表现为当卢本伟进入聊天室时使用ModBot进行kick，kick时每句话后面都带有骂人的话，例如“~kick 卢本伟 你妈死了”，以及私聊卢本伟进行精神打压等。此次事件在第二天0:00由卢本伟的惨败收场，被MelonFish和ee称作“最快乐的夜晚”。
-
 &emsp;附[反击高能部分](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-cb051ef9-0256-42af-80d2-f2dc9e295a34/2f8f3653-db43-4736-8962-aee33d6289c2.txt)及[反击全过程](https://paperee.tk/2022.07.16_your-channel.txt)。
 
 &emsp;后卢本伟依旧在个聊天室间捣乱，并继续被XC用户当猴耍，屡次惨败。2022年8月23日0点半，看过历史书的卢本伟更换了昵称回到yc，使用引用堆叠块疯狂刷屏。以下记录中的Kukatsu便是卢本伟。
@@ -654,10 +585,8 @@ dJ77TT Ahxello
 ```
 Kukatsu
 傻逼吧，搞个什么鸡巴历史书把老子写上去
-
 Kukatsu
 老子卢本伟是你能贱踏的
-
 Kukatsu
 你以为我走了，我在到处藏着呢
 ```
@@ -675,19 +604,14 @@ Kukatsu
 &emsp;此次事件，以XC站长MelonFish封锁IP并交由kzw（MelonFish的老师，~~工具人~~）处理收尾，并根据承诺，授予了Hack4r、MuRongPIG、Dawnboy、Maggie正式管理(**moderator**)。
 
 > 虽然反击了和没反击一样，该炸的还是得炸。 ——zzChumo 2022年8月
-
-
 ### 黄色七夕
 &emsp;2022年七夕这天，CSC用户李朔源和kiddo（情侣）在十字街撒狗粮（~~搞黄色~~）被明令禁止，十字街管理MuRongPIG临时出了一条不准在七夕撒狗粮的规定。于是，李朔源和kiddo来到XC。与CSC截然不同的是，XC站长MelonFish（瓜鱼）极其喜欢吃瓜，见到李朔源和kiddo非常兴奋，还将昵称改成了“MelonMelonFish”。
 
 &emsp;令人大为震撼的是，李朔源和kiddo将接吻、拥抱等场面描写得细致入微，包括在接吻中的“拉丝”、“喘气”等。用户bihaitian抱怨XC的历史记录（李朔源和kiddo撒狗粮）非常恶心，并接连有用户退出聊天室。这时XC管理ee才发布新规定：“撒狗粮≠搞黄色，撒狗粮可以，但搞黄色明令禁止。”
 
 > 这谁tm受得了啊。 ——zzChumo 2022年8月18日
-
 > 还好我没看到，否则他们就倒了大霉了。——Mr_Zhang 2022年9月7日
-
 &emsp;李朔源和kiddo撒狗粮的同时，Maggie在ee的MC服务器里满地撒西瓜，意指瓜很多。
-
 
 ### CSC人数巅峰
 &emsp;2022年8月2日中午，十字街有用户提出玩真心话游戏，加入游戏的人数不断增加，使得真心话规模不断扩大。
@@ -703,39 +627,26 @@ Kukatsu
 &emsp;2022年8月3日上午，xuanwei在HC上线reebot（名叫蓉儿的eebot）。reebot的功能中有一个能使用“O-代码”运行Python3代码的功能。作为Python3大佬的Light在HC滥用在线运行代码功能，并通过路径BUG偷窥到xuanwei的隐私（譬如真名），往主要文件main.py中写入大量awa字符，导致reebot函数混乱，reebot被严重毁坏。
 
 > ~~什么科技人肉~~ ——zzChumo 2022年8月18日
-
 &emsp;值得一提的是，在此之前，Light早已做了不少滥用eebot功能的行为，屡次警告无效；但也为eebot的deBUG做出不少贡献。此事件后，就“在线运行代码功能该不该留”、“是否应该屏蔽更多运行关键词”等值得深思的问题，XC成员做出了讨论。ee在此间感慨：`“Light再也不是以前那个Light了”`，也成了下个时代MelonFish试图拉拢Light的把柄。
-
 > 其实Light一直都没变，~~他从一开始就很欠~~。 ——zzChumo 2022年8月18日
-
-
 ### 於小夜事件
 &emsp;2022年8月，一名叫做yuxiaoye（於小夜）的用户来到XC，并在大部分用户挂机的情况下不停刷无意义信息，惹得XC管理多次提醒。片刻后，於小夜在HC聊天室冒充用户ee。
 
 > 记录被鱼鱼清了，到时候看看有没有啥bot记录消息。 ——Maggie 2022年8月
-
 &emsp;在於小夜多次刷屏、提醒无效后，XC部分用户：Maggie、MuRongPIG、Hack4r、Light、DPG、xuanwei、ee等人在XC创建了一个新频道，在其中躲避於小夜的xxs（小学生）发言并谈论对他的处置。MuRongPIG和ee在xq封禁了於小夜，可却多次遭到XC另一位管理Mr\_Zhang的解封，理由竟是因为他“心软”。当时Mr\_Zhang随意解封的行为遭到反对，用户ee评价Mr\_Zhang是“圣母”。这也是后续矛盾的由来。
-
 > 但凡你（Mr\_Zhang）心硬一点也不至于造成bf那种影响恶劣的事件。 ——zzChumo 2022年8月
-
 > @ee 同志，我男的啊。 ——Mr\_Zhang 2022年9月7日
-
 > @Mr\_Zhang 这是形容看见什么“不公”的事，没思考就乱保护“弱小”那方的行为。并不是指性别。 ——ee 2022年9月9日
-
 &emsp;在被ban第二日，於小夜去了HC。他将昨日封禁他的几位管理骂了一遍，还在yc上刷例如“Maggie、Light、xuanwei、ee你们全是傻逼”之类的话，但早期经历过卢本伟事件的XC用户们对於小夜低级的骂人手段感到无趣。Light等人与他刷屏对峙一会后，於小夜被连续kick（类似抗击卢本伟当晚）。
-
 &emsp;值得一提的是，此人还试图DDOS（一种网络攻击）Maggie的网站，结果峰值流量仅有5kb/s，攻击效果不值一提。下文是AfK_Bot记录的关于於小夜的xxs发言（cf即为**C**loud**f**lare，全世界有名的互联网公司）。
 
 ```
 yuxiaoye
 你给我100G宽带我打趴cf
-
 yuxiaoye
 cf就两台服务器
-
 yuxiaoye
 cf是什么拉吉东西
-
 yuxiaoye
 github也是垃圾
 ```
@@ -749,18 +660,13 @@ github也是垃圾
 &emsp;聊天室历史书与一些用户曾经使用“大乱动”一词（疑为拼写错误），因此有时会出现“大乱动”一词，意思和大动乱是一样的。
 
 > 2022是有史以来最魔幻的一年吧） ——666 2022年8月20日
-
 > 何止魔幻，简直是狗血小说也想不到的（ ——ee 2022年8月20日
-
-
 ### ZHC聊天室
 &emsp;ZHC聊天室，即Mr\_Zhang自己的聊天室。此聊天室在[建室热潮](#建室热潮)中有被提及。
 
 &emsp;早期，ZHC聊天室是作为VB（Visual Basic，一种程序设计语言）练手作而诞生的，由于VB功能的限制，BUG越改越多，无法作为聊天室使用，Mr\_Zhang便选择做一个新的HC系列聊天室。一开始，ZHC聊天室被他用于测试XC新功能，后来便决定发展成一个独立聊天室。历经多次挫折，在没有服务器也没有公网IP的情况下，Mr\_Zhang使用树莓派（微型电脑）运行服务端，使用花生壳服务进行内网穿透，ZHC聊天室诞生。
 
 > 话说Microsoft怎么这么喜欢用Visual命名。 ——zzChumo 2022年8月
-
-
 ### 识别码热潮
 &emsp;挖识别码，即每次随机一段密码，再根据掺了salt的SHA256加密生成字符串（仅包含字母、数字、“/”和“+”），取前6位字符的原理，不停进出聊天室以达成批量获取识别码目的的行为。HC用户一致认为其性质类似“挖矿”。
 
@@ -771,15 +677,11 @@ github也是垃圾
 &emsp;早期，ee、DPG、Hack4r、memset0等几人只要挖到识别码会立马公开，使得识别码热潮的范围进一步扩大。Hack4r在note.ms上公开了他挖到的所有识别码。其中出现了第一个由HC用户发现的纯数字识别码。
 
 > 第一个纯数字识别码出现在Hack4r的识别码库，第二个纯数字识别码出现在Maggie的识别码库，全是我发现的。 ——ee 2022年8月
-
 &emsp;挖了一段时间后，许多挖识别码的用户的数据库中，几乎可以找到包含了任意三字符组合的识别码，甚至有人的识别码数据库中可以找到几乎所有的四字符组合。
-
 &emsp;由于起步早等原因，DPG挖到的识别码数量是HC用户中拥有的数量最多的，自7月以来，HC的120w总join（加入聊天室）数中，DPG的挖矿机器人占了100w。他给一些用户免费赠送了与这些用户的用户名有一定关系的识别码（即把识别码对应的密码告诉这些用户），如给4n0n4me赠送了识别码4O4O9R（HC网页使用的等宽字体中0和O字形十分相似）、给ee赠送了带有5个e的识别码eeeEEm（此被ee作为开学留言bot的识别码）、给MelonFish赠送了2FishB（万恶之源）识别码等。
 
 > 鱼酱黑化就你干的是吧。 ——zzChumo 2022年8月
-
 &emsp;Light在yc部署了查询识别码的机器人。一开始，DPG、xuanwei、ee等人都能使用查询。但由于被白嫖识别码，甚至泄露了Light识别码库中第一个纯数字识别码，在此后机器人不再被开放。
-
 &emsp;人们就识别码挖掘提出了一些设想，Maggie和Mr\_Zhang率先提出联手制作一个识别码数据库。其中，有人提出了识别码商业化的设想（MelonFish），即售卖好看的识别码，让别人用钱来买。随着识别码热潮达到巅峰，XC的站长MelonFish立下誓言，谁刷出了HC带有fish（大小写不做区分）的识别码，他会向那位用户购买（一开始DPG赠送的那个除外）。
 
 &emsp;紧接着率先发现带有fish识别码的是轰炸姬的原作者MuRongPIG。让人没想到的是，MelonFish说话算话，他以20元的价格先后向MuRongPIG、Maggie购买含有fish的识别码，并希望通过“带头购买识别码”来带更多人刷识别码，成了HC识别码最大买家。当然，除了MelonFish外，没有人愿意为一个小小的识别码付费。
@@ -787,9 +689,7 @@ github也是垃圾
 &emsp;MelonFish对卖识别码的想法十分兴奋，甚至设想出识别码竞价。人们试图说服MelonFish要售卖识别码盈利是非常困难的，然而MelonFish越挫越勇，提出了各种具体的设想：MelonFish指出，首先要让持有识别码的人不免费送识别码而是达成卖识别码的共识，然后，要让没有挖识别码的用户重视识别码的价值，以至于愿意为之付费，卖识别码才能较大规模地盈利。
 
 > 我初墨保证只要你挖几个mod识别码就肯定有人买。 ——zzChumo 2022年8月
-
 &emsp;可我们仍然有[不要买付费识别码的五个理由](https://hcwiki.github.io/#不要买付费识别码的五个理由)，其一，付费识别码违背识别码的初衷；其二，许多付费识别码并不值这个钱；其三，付费识别码是一个阴谋；其四，识别码不是加密货币；其五，识别码没有实际价值。
-
 &emsp;在此期间，更有丧心病狂的人刷识别码刷到了“炼狱（HC的?purgatory频道，进入锁房的房间就会被移动到那里）”。而此人就是~~大名鼎鼎、如雷贯耳、老少皆知的史上第一牛逼的人人喊打的~~支持MelonFish识别码经济的第一人——QiuLingYan，[世间再无Hiyo](#世间再无hiyo)中提到了他对识别码经济的态度。
 
 &emsp;8月9日至10日，因为MelonFish坚持这种盈利的设想，遭到当时的大部分XC用户、管理员反对。MelonFish为此撤除了部分管理员，甚至封禁了大部分老用户、管理员（事态有所改变后才解封）、在XC把“hack.chat”添加到屏蔽词中，使得大量XC老用户对他的态度失望至极，拉开了大动乱时代的序幕。
@@ -797,22 +697,17 @@ github也是垃圾
 &emsp;以下内容来自4n0n4me和ee的整合，与实际聊天记录可能有一定出入，fish即为XC站长MelonFish，Welson即为4n0n4me。
 
 > 我当时是想选个看起来就像资本家、企业家的名字来讽刺鱼，我认为Welson有这个效果，就选了这个名字——4n0n4me 2022年10月6日
-
 ```
 fisHKC fish
 识别码商业化起步容易，要形成良性的循环难
 我想大家（挖了识别码的人）都知道免费送就相当于用自己的电脑算力做慈善
 就是玩玩，能玩大了最好，不能玩大就【此处的用语现无法考证】
-
 /9Br2y Welson
 就和（资本家）炒作钻石一样
-
 fisHKC fish
 还真是这个意思
-
 fisHKC fish
 addtrip（XC的自定义识别码功能）不是个好东西，使XC的识别码价值都没有了
-
 /9Br2y Welson
 （讽刺fish的炒作计划）
 每个成功的男人都需要一个好的识别码。
@@ -821,21 +716,17 @@ addtrip（XC的自定义识别码功能）不是个好东西，使XC的识别码
 选择鱼牌识别码，选择数字化经济的未来。
 选择404营销，选择企业的未来。
 ```
-
 &emsp;许多用户对MelonFish为了盈利不择手段而感到不满，MelonFish对此表示：`“还真没想到有人反对识别码贸易”`。此后，MelonFish坚持识别码商业化的设想，对于大家的质疑，MelonFish给出了新的回应。
 
 ```
 2FishB 2MelonFishB
 我重点不是赚线
-
 2FishB 2MelonFishB
 主要是鼓励大家挖识别码
-
 2FishB 2MelonFishB
 所以，1000个识别码可以放1周广告
 不需要很特殊
 所有识别码需要验证后，就可以放广告了
-
 2FishB 2MelonFishB
 我的目的从来都不是真正盈利
 而是让识别码变得有其他价值
@@ -846,9 +737,7 @@ addtrip（XC的自定义识别码功能）不是个好东西，使XC的识别码
 &emsp;在HC识别码商业化提出当晚，CSC聊天室公共聊天频道上遭到轰炸姬刷屏，管理员没办法只好锁房。当时，一直以来与CSC有较大矛盾的用户Mr\_Zhang（详见[Mr\_Zhang事件](#mr_zhang事件)）也在现场。且作为ZHC站长，Mr\_Zhang曾多次推广在CSC推广说“ZHC聊天室有多好”、“和十字街相比哪个更好”等，引起CSC用户反感。Mr\_Zhang被一度认为是刷屏的罪魁祸首。
 
 > （ZHC）其实光是加载速度和域名方面就已经不如CSC了。 ——zzChumo 2022年8月
-
 &emsp;在Mr\_Zhang的强烈抗议下，MuRongPIG和ee等怀疑他的用户才选择了相信（半信半疑）。至今为止，这位轰炸CSC的神秘人还没出现，有猜测是自7月来消失不见的卢本伟（详见[卢本伟事件](#卢本伟事件)）。
-
 
 ### USBot事件
 &emsp;USBbot，这个机器人昵称的意思是“u（你）sb（傻逼）”。8月10日，MelonFish由于坚持识别码商业化的设想，遭到当时大部分聊天室用户的反对，还在yc遭到了辱骂，并且辱骂对象不限于MelonFish本身，还包括他的父母及老师kzw，在普通人看来属实恶劣。于是，MelonFish制作了USBot骚扰yc。
@@ -858,9 +747,7 @@ addtrip（XC的自定义识别码功能）不是个好东西，使XC的识别码
 &emsp;一开始，Hack4r、zzChumo、Light、Maggie、Sh1n3zZ（非HC用户，Maggie的朋友，星弈团队及前Dataeverything成员）等人扫描XC端口，并发动CSC和DDOS网络攻击XC聊天室，但并未获得效果，使得MelonFish越来越猖狂。
 
 > 三回啊三回（恼 ——zzChumo 2022年8月
-
 &emsp;MelonFish试图通过“ee看错你了”的理由拉拢Light（源自[reebot事件](#reebot事件)），但他忘了Light是名出色的间谍，在[卢本伟事件](#卢本伟事件)期间曾作为间谍为我们争取到卢本伟的弱点。zzChumo运用社工思维，提出“向kzw告状”，并通过ICP备案查询和必应（搜索引擎）找到了MelonFish老师kzw（MelonFish的域名与服务器等资源的提供者）的邮箱。
-
 &emsp;Light将他与MelonFish在Gitee上对话的截图发给ee，在zzChumo和Light的强烈请求下，ee写了一封告状信发送给kzw，报告了MelonFish的罪行（有关MelonFish的意图和USBot的骚扰），并希望kzw能让他停止USBot。虽然一开始就做好了kzw不会回应的打算，但没想到在发送后的一小时内，kzw看到了邮件，一个电话轰到了MelonFish家里。
 
 &emsp;以下MelonFish的几句话说明了kzw收到ee发的邮件。
@@ -869,11 +756,9 @@ addtrip（XC的自定义识别码功能）不是个好东西，使XC的识别码
 2FishB fish
 @ee u are so nb
 [你太nb了]
-
 2FishB fish
 how do you find kzw's email
 [你怎么找到kzw邮箱的]
-
 2FishB fish
 but it works
 [但（你成功了）这很有效]
@@ -890,27 +775,18 @@ but it works
 &emsp;在大动乱时代前，HiyoTeam领导人QiuLingYan、4n0n4me、ee与其他7位成员团结合作由于USBot事件的爆发，QiuLingYan不认同反对MelonFish和USBot，站在XC的角度赞同识别码经济，认为“卖识别码不是商业化而是赚经费”，一口咬定4n0n4me和ee是破坏XC和平的凶手，并对两人进行了辱骂。他的行为表明了立场，在被XC站长MelonFish授予管理员后，QiuLingYan先后ban了4n0n4me和ee。
 
 > 热知识：QiuLingYan支持鱼的根本原因是鱼答应给他Mod权限。 ——zzChumo 2022年8月
-
 > 冷知识：还想报复我之前不支持他当XC管理。 ——ee 2022年9月17日
-
 &emsp;4n0n4me最先退出团队。当天下午，ee在星聊宣布解散HiyoTeam所有成员，并退出了团队。合作方星弈团队当即宣称与HiyoTeam解除一切合作关系。QiuLingYan执意认为“4n0n4me和ee没有解散团队的权力，QiuLingYan是第一领导人，4n0n4me和ee只是第二领导人”。
-
 > 联合创始人还分等级的是吧，长知识了。 ——zzChumo 2022年8月
-
 &emsp;虽然QiuLingYan单方面认定HiyoTeam是由他掌管的，但在主观上，HiyoTeam已经不复存在。
-
 
 ### HTML漏洞
 &emsp;USBot事件期间，作为XC聊天室主要维护人员Mr\_Zhang，~~抄袭~~借鉴CSC代码，给XC添加了发送HTML消息的新功能。一开始只是用来方便用户使用HTML发送网易云音乐听歌，然则后来zzChumo、Hack4r、MuRongPIG等略懂XSS（一种网络攻击手段）的用户发现了此功能的BUG，例如插入`<iframe>`标签，甚至是通过定时跳转或全屏显示某网页内容来达到XSS注入的效果。
 
 > 抄人家东西还不给人家用，我们的小张真的是太厉害辣！ ——zzChumo 2022年8月
-
 &emsp;8月10日晚，ee在XC使用HTML发送了大量有关Minecraft的音乐，以此来悼念[XC与Minecraft](#xc与minecraft)时期美好的XC与曾经的鱼。
-
 > 电 子 灵 堂 ——zzChumo 2022年8月
-
 &emsp;第二日下午，鉴于ee在USBot事件后依然保留的管理员的身份，Hack4r让ee在XC发送一段插入HTTP记录的代码，想借此达到盗号目的。这使XC站长MelonFish与老管理Mr\_Zhang、新管理QiuLingYan等人陷入警戒。MelonFish删除了配置文件，撤销了ee管理员，并通知所有人更换密码。本次事件使发送HTML功能暂时被Mr\_Zhang屏蔽了。
-
 &emsp;第三日，MuRongPIG表示，这段盗号代码本来是他想等到放假后（第二天）再试的，但却被ee抢先了一步。后来，Mr\_Zhang参考CSC代码，写了一个HTML开关来降低此类HTML漏洞的风险。
 
 &emsp;至于本次盗号是否成功……[数据删除]。该事件结束后，据Hack4r所说，他成功暴力破解了站长MelonFish和管理员MuRongPIG的密码，还把MelonFish的密码发给了HC其他三位用户（4n0n4me、DPG、ee）。XC被迫修改了salt值（一种加密参数），加长到了20位，并表示除了站长MelonFish外，不会有第二个用户知道XC的salt。
@@ -933,28 +809,24 @@ but it works
 &emsp;一个月前，13认为XC用户总有一天会回归原始（HC），没想到，他的预言在这个时代实现了。
 
 > 我们无法评价HC（yc）方和XC方到底谁对谁错，至少双方都有迷失的地方、也有不成熟的地方……或许在未来，当那些曾经参与过这件事的用户回忆起来……留下的总会有三分遗憾、七分感慨吧。 ——ee
-
 &emsp;另外，由于大部分XC老用户向yc迁移，yc管理权限需求量增大，4n0n4me举行了第三届协管选举，选出了Maggie、zzChumo、emankicN（ccw）、Light等人成为新协管。pro那边的管理员AnnikaV9，改编ModBot制作了新的协管机器人mbot，并加入了开关验证码功能，使得yc不再局限于“打开房门迎接所有反对者”和“堵上一切入口将自家人排除在外”两个极端。
-
 
 ### 双向大爆破
 > 我看大乱动时代不是一言不合就网络攻击就是天天都是网络攻击。 ——ee 2022年8月
-
 &emsp;2022年8月16日晚，由于Mr\_Zhang在XC封禁Maggie、Light等人的原因，双方起了争执。愤怒之下，Maggie和Light发动CC攻击，轰炸Mr\_Zhang的聊天室ZHC，没过几分钟，使用frp搭建的ZHC崩溃。当天晚上，Mr\_Zhang宣布ZHC聊天室正式关闭。第二天，Mr\_Zhang说明会重开聊天室，并只将聊天室网址交给信任的人。
-
 &emsp;作为回击，第二天，Mr\_Zhang开了8个ZhangKillerPlus（轰炸机）向TC发起进攻，一段时间后，由于网速问题改成了4个。QiuLingYan妄想用ping攻击ping掉TC，结果被TC的防火墙挡在门口；QiuLingYan还向ee的邮箱不停发垃圾邮件，然则ee检查后发现邮件全在垃圾箱里，无一幸存。到最后Mr\_Zhang和QiuLingYan的攻击完全无效，TC完好无缺。
 
 > 那么问题来了：这件事关ee什么事？ ——zzChumo 2022年8月
-
 > 我也很懵逼，QiuLingYan突然说他在轰炸我的邮箱，简直开幕雷击。 ——ee 2022年8月
-
 > 啥？秋凌烟怎么回事啊…… ——Mr_Zhang 2022年9月7日
-
-
 ### JSPVZ事件
-&emsp;2022年8月16日下午，JSPVZ用户B站的J、snose、虚无信者、s5x（sex）等人在XC的?jspvz聊天，B站的J邀请XC管理员们去?jspvz看JSPVZ内部大战。此后，Mr\_Zhang查到了虚无信者的IP，另一名XC管理FBR（QiuLingYan）未经当事人同意，谎称关了记录信息，在?jspvz公布了虚无信者的IP，导致虚无信者IP短暂泄露。
+&emsp;2022年8月16日下午，JSPVZ用户B站的J、snose、虚无信者、s5x等人在XC的?jspvz聊天，B站的J将?jspvz发送至了公共聊天室“?xq102210”，之后2名管理员来到?jspvz，而XC进入后会显示IP属地，寒冰投手、虚无信者在讨论IP和IP属地相关的问题，那2名管理员查到了虚无信者的IP，其中一个管理员（Mr\_Zhang）只是私信给他了他的IP，管理员“QiuLingYan”查到了虚无信者的IP，并未经允许公开了IP，谎称关了记录信息。
 
-&emsp;第二天，B站的J在B站发了关于声讨XC管理的[视频](https://www.bilibili.com/video/BV1Te4y1f7zg/)，就IP泄露问题向XC讨要说法。MelonFish在视频中做出了解释，但目前此视频已被B站的J删除。以下是MelonFish在评论中的原话（由ee添加了换行）。
+&emsp;s5x在必应上搜索了有关“XChat（此XC非彼XC）”的丑闻，得寸进尺，公然辱骂XC聊天室，被Mr\_Zhang封禁。
+
+&emsp;2022年8月17日，s5x仍然辱骂XC，频率增加。snose和s5x发生小规模骂战不久，在JSPVZ，s5x注册新号“XChat”钓鱼，并登录自己小号“B站的J的小娇妻”来侮辱B站的J，之后，s5x又说自己曾经想象了一些结局：冷处理、踢皮球、人肉搜索、反殖民、发送死亡威胁、盗取身份证号、盗取支付密码等，传播JSPVZ-XChat大战思想。
+
+&emsp;B站的J在B站发了关于此次事件的视频（已被删除）。MelonFish在视频中做出了解释，但目前此视频已被B站的J删除。以下是MelonFish在评论中的原话（由ee添加了换行）。
 
 ```
 ⭐ Admin fishh
@@ -970,29 +842,14 @@ but it works
 ```
 
 > 好似，开香槟咯。 ——zzChumo 2022年8月
-
 > 咱就说这些人连网络常识都没有就说泄露IP的严重性？ ——Mr_Zhang 2022年9月7日
-
 > 咱看好了行不，冲突点在于“未经当事人同意就公布IP”，而不是IP重要性（ ——ee 2022年9月9日
-
-&emsp;晚上，s5x在必应上搜索了有关“XChat（此XC非彼XC）”的丑闻，得寸进尺，公然辱骂XC聊天室，被Mr\_Zhang封禁。
-
 > 冷知识，关于聊天室重名，国内有个诈骗软件叫星聊，国外有个色情软件叫XChat，此星聊和XChat，非同历史书中所提到的聊天室星聊及XChat。 ——ee 2022年8月
-
-&emsp;2022年8月17日，s5x仍然辱骂XC，频率增加。snose和s5x发生小规模骂战不久，在JSPVZ聊天区，s5x注册新号“XChat”钓鱼，并登录自己小号“B站的J的小娇妻”来侮辱B站的J，之后，s5x又说自己曾经想象了一些结局：冷处理、踢皮球、人肉搜索、反殖民、发送死亡威胁、盗取身份证号、盗取支付密码等，传播JSPVZ-XChat大战思想。
-
 &emsp;由于滥用权限，QiuLingYan的管理被撤销。2022年8月26日，QiuLingYan在视频的评论中侮辱了B站的J，甚至没过几天便重新获得管理。B站的J向QiuLingYan质问该年8月16日的IP问题，QiuLingYan却逃避问题，还嘲讽`“B站的J只有4年级”`。
 
 &emsp;B站的J、snose两人与QiuLingYan展开骂战，QiuLingYan将snose禁言。MelonFish介入本事件，B站的J和snose发现XC管理QiuLingYan疑似滥用权限将XC聊天室?jspvz频道的记录清除，试图掩盖证据。讽刺的是，在其以前泄露IP时声称“已关闭记录”时实则并未关闭，而在这次冲突中，他将记录自己发出的消息功能关闭了。
 
-&emsp;2022年8月26日，QiuLingYan在视频的评论中侮辱了B站的J，甚至没过几天便重新获得管理。B站的J向QiuLingYan质问该年8月16日发生的JSPVZ事件，QiuLingYan却逃避问题，还嘲讽`“B站的J只有4年级”`。
-
 > 明明QiuLingYan也是小学生uwu ——ee
-
-&emsp;B站的J、snose两人与QiuLingYan展开骂战，QiuLingYan将两人禁言。后MelonFish介入本事件，B站的J和snose发现XC管理QiuLingYan滥用权限，将历史记录中自己发言的部分删掉，且将XC聊天室?jspvz频道的记录彻底删除，试图掩盖证据。XC名声在JSPVZ进一步恶化。
-
-&emsp;本节内容转载并修改自当时的JSPVZ社区Wiki。
-
 ### lol事件
 &emsp;HC的管理员lol（此处以及**本章节**的下文都不是指的Laugh out loud缩写）一向被认为对中国人不友好，曾经发表反华言论与各种对中国用户不利的言论。本节所述的是2022年8月下旬的lol事件。
 
@@ -1002,14 +859,11 @@ but it works
 a/Jz/a L
 @lol could you give our friend a authtrip?
 [你能给我的朋友（MuRongPIG）认证识别码吗]
-
 MuRongPIG
 （lol）似乎把我踢回了yc
-
 xhvbdp lol
 i could ban u
 [我能封禁你]
-
 xhvbdp lol
 if u ask again i ban u
 [如果你再问我我会封禁你]
@@ -1031,17 +885,13 @@ if u ask again i ban u
 xhvbdp lol
 @L good bye asian dog
 [再见亚洲狗]
-
 *
 L left
-
 *
 Banned L
-
 a/Jz/a afkl
 I've never provoked you @lol
 [我从来没激怒过你]
-
 xhvbdp lol
 ofc ofc
 [当然 当然]（of course，表示当然）
@@ -1053,23 +903,18 @@ ofc ofc
 n3CJhb zzChumo_Ubuntu
 what happened
 [发生了什么]
-
 n3CJhb zzChumo_Ubuntu
 2 mods and 1 fucker
 [两个管理和一个**]（其中两个管理指nmad和AnnikaV9，一个**指挑起争端的lol）
-
 xhvbdp lol
 @zzChumo_Ubuntu ill make ur life a living hell when i get home
 [我回家后会让你生不如死]
-
 xhvbdp lol
 u fucking retarded shit
 [你他*的智障狗屎]
-
 xhvbdp lol
 this channel is going down tonight
 [此频道今晚将关闭]
-
 xhvbdp lol
 im sick and done with all of you morons
 [我受够了你们这些智障]
@@ -1790,7 +1635,6 @@ jga1nc  tcg
 [2022-12-08 20-51-37] [MAGGIE]M_ @fish 你的同学想撅我（意味深
 [2022-12-08 20-51-44] [Admin]fish >MAGGIE M_：
 >IP是110.157.71.197
-
 @M_ 。。。你可以让小张去查记录，我的ip一直是110.152
 [2022-12-08 20-51-46] [Admin]fish 从没变过
 [2022-12-08 20-51-52] [MAGGIE]M_ lol
@@ -2069,12 +1913,12 @@ Auto banned hash H2Z2n87sNqfsI35 for 60.0s
    - bf：一个臭名远扬的用户。
    - lbw：**l**u**b**en**w**ei，卢本伟（**这里不是指的游戏主播**），一个无可救药的罪人。
    - yxy：**y**u**x**iao**y**e，於小夜，一个道德败坏的小学生。
-   - s5x：又名sex，一个在JSPVZ经常钓鱼的玩家，曾经侮辱过XC。
+   - s5x：又名寒冰投手，一个在JSPVZ经常钓鱼的玩家，曾经侮辱过XC。
    - mrz：小写指**M**u**R**ong**PIG**，慕容猪。
    - MRZ：大写指**Mr**\_**Z**hang，小张。
 
 - 机器人
-   - zh：可能是机器人**Z**hang**H**elper的缩写，也可译为“中文”。
+   - zh：机器人**Z**hang**H**elper的缩写，也可译为“中文”。
    - ab：**AB**ot，Hack4r的机器人。
    - hb：**HB**ot，ABot的前身。
    - ob：**OB**ot，Outlier的机器人，也有用户名为“OBot”。
