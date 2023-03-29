@@ -1,5 +1,5 @@
 # 聊天室历史书
-**版本9.13，于2023年3月20日由B站的J更新。**
+**版本9.13，于2023年3月29日由B站的J更新。**
 
 
 ## 分支地址
@@ -152,7 +152,8 @@
 
 > ~~这你得吐槽zzChumo，这是他写的uwu~~ ——ee  2022年8月
 
-&emsp;YC帝国成立初期，用户zzChumo曾提议书写YC帝国历史书，可由于学业问题成了当年一个大遗憾。直到2022暑假初期，XC用户Maggie和4n0n4me提议写一个聊天室历史书，才使这段充满遗憾的历史重现展现在众人面前。
+&emsp;YC帝国成立初期，用户zzChumo曾提议书写YC帝国历史书，可由于学业问题成了当年一个大遗憾。直到2022暑假初期，
+Maggie和4n0n4me提议写一个聊天室历史书，才使这段充满遗憾的历史重现展现在众人面前。
 
 &emsp;2022年暑假中期，用户DPG改进轰炸姬，诞生了根据进出原理刷识别码的机器人，加上有用户建议用识别码交换东西（典型为用识别码交换识别码，或者用钱购买识别码），正式掀起了识别码收集（交易）热潮。详见[识别码热潮](#识别码热潮)。
 
@@ -562,7 +563,7 @@ nickname123
 ### XC与Minecraft
 &emsp;2022年五一假期第一天，XC的站长MelonFish为了吃ee和13的瓜，搭建了一个Minecraft服务器。服务端原本处于1.12.2版本，后来升级为1.13.2版本。虽然MelonFish希望ee和13能一同在服务器中~~撒瓜~~游玩，但13进入游戏时有困难，导致鱼没有吃到很多瓜。
 
-&emsp;MelonFish、ee、4n0n4me、DPG、MRGAO、zzChumo、13、Light、黎又亦（MelonFish现实中一位朋友）等用户都游玩过此服务器。B站的J（XC用户）因为在服务器中多次发送无意义消息，例如“哈哈哈，我们暂时回来了！”、炸毁房子、杀了ee的四条狗、恶意攻击服务器里其他用户等行为，最终被MelonFish从服务器封禁。
+&emsp;MelonFish、ee、4n0n4me、DPG、MRGAO、zzChumo、13、Light、黎又亦（MelonFish现实中一位朋友）等用户都游玩过此服务器。B站的J（聊天室用户）因为在服务器中多次发送无意义消息，例如“哈哈哈，我们暂时回来了！”、无意间引苦力怕炸毁房子、杀了ee的四条狗、随意攻击服务器里其他用户等行为，最终被MelonFish从服务器封禁。
 
 &emsp;最初，MelonFish、ee、4n0n4me等玩家住在4n0n4me发现的雪屋里，雪屋所在的地方后来被称为“雪镇”。
 
@@ -2027,9 +2028,6 @@ Auto banned hash H2Z2n87sNqfsI35 for 60.0s
 - USBot事件
    - [USBot事件.png](https://book.paperee.guru/chatroom-history-book/USBot事件.png)（by.ee）
 
-- JSPVZ事件
-   - [12323434.png](https://static.wikia.nocookie.net/jspvz/images/6/69/12323434.png/revision/latest?cb=20220817015014&path-prefix=zh)（by.B站的J）
-
 
 ### 常用语
 - 聊天室相关
@@ -2045,7 +2043,7 @@ Auto banned hash H2Z2n87sNqfsI35 for 60.0s
    - lo：HC的**lo**unge频道，多为国人。
    - yc：HC的**y**our-**c**hannel频道，多为国人。
    - ycl：HC的**y**our-**c**hannel**l**频道。
-   - pro：HC的**pro**gramming频道，外国人的频道。
+   - pro：HC的**pro**gramming频道，多为外国人。
 
 - 聊天室术语
    - ban：完全封禁用户IP地址。
@@ -2064,8 +2062,7 @@ Auto banned hash H2Z2n87sNqfsI35 for 60.0s
    - lbw：**l**u**b**en**w**ei，卢本伟（**这里不是指的游戏主播**），一个无可救药的罪人。
    - yxy：**y**u**x**iao**y**e，於小夜，一个道德败坏的小学生。
    - s5x：又名寒冰投手，一个在JSPVZ经常钓鱼的玩家。
-   - mrz：小写有时指**M**u**R**ong**PIG**，慕容猪。
-   - MRZ：大写有时指**Mr**\_**Z**hang，小张。
+   - mrz：可能指**M**u**R**ong**PIG**，慕容猪和**Mr**\_**Z**hang，小张。
 
 - 机器人
    - zh：机器人**Z**hang**H**elper的缩写，也可译为“中文”。
@@ -2075,7 +2072,7 @@ Auto banned hash H2Z2n87sNqfsI35 for 60.0s
    - zb：z**zb**ot，zzChumo根据Foolishbird制作。
    - eb：e**eb**ot，ee根据Foolishbird制作。
    - reb：**r**e**eb**ot，名为蓉儿的eebot，xuanwei根据eebot改写而成。
-   - usb：**USB**ot，MelonFish放置于yc扰乱环境的机器人，并非USB接口。
+   - usb：**USB**ot，一般指MelonFish放置于yc扰乱环境的机器人。
    - bu_ug：？的前身，意指“BUG”。
    - bo_od：MuRongPIG的机器人。
    - do_ob：Henrize的机器人。
