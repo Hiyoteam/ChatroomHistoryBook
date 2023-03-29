@@ -30,7 +30,7 @@
 
 
 ## 特别感谢
-- 提出建议的：[Mr\_Zhang](https://mrzhang365.github.io/)、[QiuLingYan](https://qiu-lingyan.github.io/1)、[Light](https://gitee.com/BirdingLight)、[MelonFish](https://xq.kzw.ink/)、B站的J、snose、[MuRongPIG](https://github.com/MuRongPIG)、emankicN、Hack4r and you.
+- 提出建议的：[Mr\_Zhang](https://mrzhang365.github.io/)、[QiuLingYan](https://qiu-lingyan.github.io/1)、[Light](https://gitee.com/BirdingLight)、[MelonFish](https://xq.kzw.ink/)、Bzhan5J、snose、[MuRongPIG](https://github.com/MuRongPIG)、emankicN、Hack4r and you.
 
 
 ## 更新内容
@@ -562,7 +562,7 @@ nickname123
 ### XC与Minecraft
 &emsp;2022年五一假期第一天，XC的站长MelonFish为了吃ee和13的瓜，搭建了一个Minecraft服务器。服务端原本处于1.12.2版本，后来升级为1.13.2版本。虽然MelonFish希望ee和13能一同在服务器中~~撒瓜~~游玩，但13进入游戏时有困难，导致鱼没有吃到很多瓜。
 
-&emsp;MelonFish、ee、4n0n4me、DPG、MRGAO、zzChumo、13、Light、黎又亦（MelonFish现实中一位朋友）等用户都游玩过此服务器。B站的J（聊天室用户）因为在服务器中多次发送无意义消息，例如“哈哈哈，我们暂时回来了！”、无意间引苦力怕炸毁房子、杀了ee的四条狗、随意攻击服务器里其他用户等行为，最终被MelonFish从服务器封禁。
+&emsp;MelonFish、ee、4n0n4me、DPG、MRGAO、zzChumo、13、Light、黎又亦（MelonFish现实中一位朋友）等用户都游玩过此服务器。Bzhan5J因为在服务器中多次发送无意义消息，例如“哈哈哈，我们暂时回来了！”、无意间引苦力怕炸毁房子、杀了ee的四条狗、随意攻击服务器里其他用户等行为，最终被MelonFish从服务器封禁。
 
 &emsp;最初，MelonFish、ee、4n0n4me等玩家住在4n0n4me发现的雪屋里，雪屋所在的地方后来被称为“雪镇”。
 
@@ -922,7 +922,7 @@ but it works
 
 
 ### 乱世大迭代
-&emsp;在大动乱时代，XC发生了翻天覆地的变化。曾经，“XC迭代”这一章节作为独立事件出现在历史书里，后被整合至[XC聊天室](#xc聊天室)。与此相比截然不同的是本时代末的XC大迭代，曾经的XC老管理ee、Untitled、4n0n4me、Hack4r、Dawnboy、Maggie等人被撤职，留下的管理只有主要维护人员Mr\_Zhang、收了鱼贿赂的QiuLingYan、不参与事件的MuRongPIG等。此外，在洛谷拉用户的OIer酱、在CSC拉用户的azhe（阿哲）、在JSPVZ拉用户的B站的J等被任命为新的管理员。
+&emsp;在大动乱时代，XC发生了翻天覆地的变化。曾经，“XC迭代”这一章节作为独立事件出现在历史书里，后被整合至[XC聊天室](#xc聊天室)。与此相比截然不同的是本时代末的XC大迭代，曾经的XC老管理ee、Untitled、4n0n4me、Hack4r、Dawnboy、Maggie等人被撤职，留下的管理只有主要维护人员Mr\_Zhang、收了鱼贿赂的QiuLingYan、不参与事件的MuRongPIG等。此外，在洛谷拉用户的OIer酱、在CSC拉用户的azhe（阿哲）、在JSPVZ拉用户的Bzhan5J等被任命为新的管理员。
 
 &emsp;在这起事件里，对XC感到失望的老成员选择离开XC，回归HC。星聊、TC、ZC、LC等地也被多次作为“战争避难所”候补，专门用于躲避从XC来的Mr\_Zhang、MelonFish等装作机器人的眼线。
 
@@ -953,11 +953,11 @@ but it works
 
 
 ### JSPVZ事件
-&emsp;2022年8月16日下午，JSPVZ用户B站的J、snose、虚无信者、s5x等人在XC的?jspvz聊天，B站的J将?jspvz发送至了公共聊天室“?xq102210”，之后2名管理员来到?jspvz，而XC进入后会显示IP属地，寒冰投手、虚无信者在讨论IP和IP属地相关的问题，那2名管理员查到了虚无信者的IP，其中一个管理员（Mr\_Zhang）只是私信给他了他的IP，管理员“QiuLingYan”查到了虚无信者的IP，并未经允许公开了IP，谎称关了记录信息。
+&emsp;2022年8月16日下午，Bzhan5J、snose、虚无信者（jspvz玩家）、s5x（jspvz玩家）等人在XC的?jspvz聊天，Bzhan5J将?jspvz发送至了公共聊天室“?xq102210”，之后2名管理员来到?jspvz，而XC进入后会显示IP属地，寒冰投手、虚无信者在讨论IP和IP属地相关的问题，那2名管理员查到了虚无信者的IP，其中一个管理员（Mr\_Zhang）只是私信给他了他的IP，管理员“QiuLingYan”查到了虚无信者的IP，并未经允许公开了IP，谎称关了记录信息。
 
 &emsp;s5x在必应上搜索了有关“XChat（此XC非彼XC）”的丑闻，得寸进尺，公然辱骂XC聊天室，被Mr\_Zhang封禁。
 
-&emsp;2022年8月17日，s5x仍然辱骂XC，频率增加。snose和s5x发生小规模骂战不久。下午，B站的J在B站发了关于此次事件的视频（已被删除）。MelonFish在视频中做出了解释，但目前此视频已被B站的J删除。大约是在晚上，在JSPVZ，s5x注册新号“XChat”钓鱼，并登录自己小号“B站的J的小娇妻”来侮辱B站的J，之后，s5x又说自己曾经想象了一些结局：冷处理、踢皮球、人肉搜索、反殖民、发送死亡威胁、盗取身份证号、盗取支付密码等，传播JSPVZ-XChat大战思想。
+&emsp;2022年8月17日，s5x仍然辱骂XC，频率增加。snose和s5x发生小规模骂战不久。下午，Bzhan5J在B站发了关于此次事件的视频（已被删除）。MelonFish在视频中做出了解释，但目前此视频已被Bzhan5J删除。大约是在晚上，在JSPVZ，s5x注册新号“XChat”钓鱼，并登录自己的jspvz账号“B站的J的小娇妻”来侮辱Bzhan5J，之后，s5x又说自己曾经想象了一些结局：冷处理、踢皮球、人肉搜索、反殖民、发送死亡威胁、盗取身份证号、盗取支付密码等，传播JSPVZ-XChat大战思想。
 
 &emsp;以下是MelonFish在视频删除之前的评论：
 ```
@@ -983,7 +983,7 @@ but it works
 
 > 冷知识，关于聊天室重名，国内有个诈骗软件叫星聊，国外有个色情软件叫XChat，此星聊和XChat，非同历史书中所提到的聊天室星聊及XChat。 ——ee 2022年8月
 
-&emsp;2022年8月26日，B站的J、snose两人与QiuLingYan展开骂战，QiuLingYan将snose禁言。MelonFish介入本事件，B站的J和snose发现XC管理QiuLingYan疑似滥用权限将XC聊天室?jspvz频道的记录清除，试图掩盖证据。讽刺的是，在其以前泄露IP时声称“已关闭记录”时实则并未关闭，而在这次冲突中，他将记录自己发出的消息功能关闭了。
+&emsp;2022年8月26日，Bzhan5J、snose两人与QiuLingYan展开骂战，QiuLingYan将snose禁言。MelonFish介入本事件，Bzhan5J和snose发现XC管理QiuLingYan疑似滥用权限将XC聊天室?jspvz频道的记录清除，试图掩盖证据。讽刺的是，在其以前泄露IP时声称“已关闭记录”时实则并未关闭，而在这次冲突中，他将记录自己发出的消息功能关闭了。
 
 > 明明QiuLingYan也是小学生uwu ——ee
 
