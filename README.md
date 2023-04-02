@@ -2038,7 +2038,7 @@ Auto banned hash H2Z2n87sNqfsI35 for 60.0s
    - ZC：[zzChat](https://zzchat.cf/)，智聊（~~全名智障聊天室~~）。
    - LC：[Light's hack.chat](http://43.142.118.149:6059/)，Light的聊天室，使用Python后端。
    - ZHC：[ZhangChat](https://gitee.com/MrZhang365/zhangchat)，小张聊天室。
-   - xq: XC的**xq**102210频道，也指线圈。
+   - xq: XC的**xq**102210频道，也可指线圈。
    - lo：HC的**lo**unge频道，多为国人。
    - yc：HC的**y**our-**c**hannel频道，多为国人。
    - ycl：HC的**y**our-**c**hannel**l**频道。
@@ -2064,14 +2064,14 @@ Auto banned hash H2Z2n87sNqfsI35 for 60.0s
    - mrz：可能指**M**u**R**ong**PIG**，慕容猪和**Mr**\_**Z**hang，小张。
 
 - 机器人
-   - zh：可能是机器人**Z**hang**H**elper的缩写，也可译为“中文”。
+   - zh：可能指机器人**Z**hang**H**elper，也可指“中文”。
    - ab：**AB**ot，Hack4r的机器人。
    - hb：**HB**ot，ABot的前身。
    - ob：**OB**ot，Outlier的机器人，也有用户名为“OBot”。
    - zb：z**zb**ot，zzChumo根据Foolishbird制作。
    - eb：e**eb**ot，ee根据Foolishbird制作。
    - reb：**r**e**eb**ot，名为蓉儿的eebot，xuanwei根据eebot改写而成。
-   - usb：**USB**ot，一般指MelonFish放置于yc扰乱环境的机器人。
+   - usb：**USB**ot，在聊天室中一般指MelonFish放置于yc扰乱环境的机器人，很少指usb接口（可根据语境判断）。
    - bu_ug：？的前身，意指“BUG”。
    - bo_od：MuRongPIG的机器人。
    - do_ob：Henrize的机器人。
