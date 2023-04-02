@@ -953,11 +953,11 @@ but it works
 
 
 ### JSPVZ事件
-&emsp;2022年8月16日下午，Bzhan5J、snose、虚无信者（jspvz玩家）、s5x（jspvz玩家）等人在XC的?jspvz聊天，Bzhan5J将?jspvz发送至了公共聊天室“?xq102210”，之后2名管理员来到?jspvz，而XC进入后会显示IP属地，寒冰投手、虚无信者在讨论IP和IP属地相关的问题，那2名管理员查到了虚无信者的IP，其中一个管理员（Mr\_Zhang）只是私信给他了他的IP，管理员“QiuLingYan”查到了虚无信者的IP，并未经允许公开了IP，谎称关了记录信息。
+&emsp;2022年8月16日下午，Bzhan5J、snose、虚无信者（jspvz玩家）、寒冰投手（jspvz玩家）等人在XC的?jspvz聊天，Bzhan5J将?jspvz发送至了公共聊天室“?xq102210”，之后2名管理员（Mr\_Zhang和QiuLingYan）来到?jspvz，而XC进入后会显示IP属地，寒冰投手、虚无信者在讨论IP和IP属地相关的问题，而那2名管理员查到了虚无信者的IP，管理员Mr\_Zhang私信给他了他的IP，但管理员“QiuLingYan”未经允许公开了IP，谎称关了记录信息。
 
-&emsp;s5x在必应上搜索了有关“XChat（此XC非彼XC）”的丑闻，得寸进尺，公然辱骂XC聊天室，被Mr\_Zhang封禁。
+&emsp;寒冰投手在必应上搜索了有关“XChat（此XC非彼XC）”的丑闻，得寸进尺，公然辱骂XC聊天室，被Mr\_Zhang封禁。
 
-&emsp;2022年8月17日，s5x仍然辱骂XC，频率增加。snose和s5x发生小规模骂战不久。下午，Bzhan5J在B站发了关于此次事件的视频（已被删除）。MelonFish在视频中做出了解释，但目前此视频已被Bzhan5J删除。大约是在晚上，在JSPVZ，s5x注册新号“XChat”钓鱼，并登录自己的jspvz账号“B站的J的小娇妻”来侮辱Bzhan5J，之后，s5x又说自己曾经想象了一些结局：冷处理、踢皮球、人肉搜索、反殖民、发送死亡威胁、盗取身份证号、盗取支付密码等，传播JSPVZ-XChat大战思想。
+&emsp;2022年8月17日，寒冰投手仍然辱骂XC，频率增加。snose和寒冰投手发生小规模骂战不久。下午，Bzhan5J在B站发了关于此次事件的视频（已被删除）。MelonFish在视频中做出了解释，但目前此视频已被Bzhan5J删除。大约是在晚上，在JSPVZ，寒冰投手注册新号“XChat”钓鱼，并登录自己的jspvz账号“B站的J的小娇妻”来侮辱Bzhan5J，之后，寒冰投手又说自己曾经想象了一些结局：冷处理、踢皮球、人肉搜索、反殖民、发送死亡威胁、盗取身份证号、盗取支付密码等，传播JSPVZ-XChat大战思想。
 
 &emsp;以下是MelonFish在视频删除之前的评论：
 ```
@@ -2060,7 +2060,7 @@ Auto banned hash H2Z2n87sNqfsI35 for 60.0s
    - bf：一个臭名远扬的用户。
    - lbw：**l**u**b**en**w**ei，卢本伟（**这里不是指的游戏主播**），一个无可救药的罪人。
    - yxy：**y**u**x**iao**y**e，於小夜，一个道德败坏的小学生。
-   - s5x：又名寒冰投手，一个JSPVZ玩家。
+   - 寒冰投手：又名s5x，一个JSPVZ玩家。
    - mrz：可能指**M**u**R**ong**PIG**，慕容猪和**Mr**\_**Z**hang，小张。
 
 - 机器人
@@ -2071,7 +2071,7 @@ Auto banned hash H2Z2n87sNqfsI35 for 60.0s
    - zb：z**zb**ot，zzChumo根据Foolishbird制作。
    - eb：e**eb**ot，ee根据Foolishbird制作。
    - reb：**r**e**eb**ot，名为蓉儿的eebot，xuanwei根据eebot改写而成。
-   - usb：**USB**ot，在聊天室中一般指MelonFish放置于yc扰乱环境的机器人，很少指usb接口（可根据语境判断）。
+   - usb：**USB**ot，在聊天室中一般指MelonFish放置于yc扰乱环境的机器人，也可指usb接口（可根据语境判断）。
    - bu_ug：？的前身，意指“BUG”。
    - bo_od：MuRongPIG的机器人。
    - do_ob：Henrize的机器人。
