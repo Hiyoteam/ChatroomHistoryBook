@@ -2060,11 +2060,11 @@ Auto banned hash H2Z2n87sNqfsI35 for 60.0s
    - bf：一个臭名远扬的用户。
    - lbw：**l**u**b**en**w**ei，卢本伟（**这里不是指的游戏主播**），一个无可救药的罪人。
    - yxy：**y**u**x**iao**y**e，於小夜，一个道德败坏的小学生。
-   - s5x：又名寒冰投手，一个在JSPVZ经常钓鱼的玩家。
+   - s5x：又名寒冰投手，一个JSPVZ玩家。
    - mrz：可能指**M**u**R**ong**PIG**，慕容猪和**Mr**\_**Z**hang，小张。
 
 - 机器人
-   - zh：机器人**Z**hang**H**elper的缩写，也可译为“中文”。
+   - zh：可能是机器人**Z**hang**H**elper的缩写，也可译为“中文”。
    - ab：**AB**ot，Hack4r的机器人。
    - hb：**HB**ot，ABot的前身。
    - ob：**OB**ot，Outlier的机器人，也有用户名为“OBot”。
