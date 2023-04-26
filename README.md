@@ -1,5 +1,5 @@
 # 聊天室历史书
-**版本9.12，于2023年1月21日更新。**
+**版本9.13，于2023年4月2日更新。**
 
 
 ## 分支地址
@@ -24,16 +24,17 @@
 
 ## 编辑团队
 - [4n0n4me](https://www.pillows.net.eu.org/)（主编）
-- [ee](https://paperee.tk)（副主编，修改格式，整理目录）
+- [ee](https://paperee.guru)（副主编，修改格式，整理目录）
 - [Maggie](https://thz.cool/)（项目提出者，修改格式，整理目录）
 - [zzChumo](https://www.zzchat.cf/)（润色，内容补充）
 
 
 ## 特别感谢
-- 提出建议的：[Mr\_Zhang](https://mrzhang365.github.io/)、[QiuLingYan](https://qiu-lingyan.github.io/1)、[Light](https://gitee.com/BirdingLight)、[MelonFish](https://xq.kzw.ink/)、B站的J、snose、[MuRongPIG](https://github.com/MuRongPIG)、emankicN、Hack4r and you.
+- 提出建议的：[Mr\_Zhang](https://mrzhang365.github.io/)、[QiuLingYan](https://qiu-lingyan.github.io/1)、[Light](https://gitee.com/BirdingLight)、[MelonFish](https://xq.kzw.ink/)、Bzhan5J、[MuRongPIG](https://github.com/MuRongPIG)、emankicN、Hack4r and you.
 
 
 ## 更新内容
+- 修正JSPVZ事件相关内容，修改部分不太严谨的内容，修正友情链接。（9.13）
 - 修改了十字街的缩写；增加了部分说明。（9.12）
 - 更新了yc定点轰炸事件。（9.11）
 - 合并所有主流聊天室分支，统一版本。(9.10)
@@ -151,7 +152,7 @@
 
 > ~~这你得吐槽zzChumo，这是他写的uwu~~ ——ee  2022年8月
 
-&emsp;YC帝国成立初期，用户zzChumo曾提议书写YC帝国历史书，可由于学业问题成了当年一个大遗憾。直到2022暑假初期，XC用户Maggie和4n0n4me提议写一个聊天室历史书，才使这段充满遗憾的历史重现展现在众人面前。
+&emsp;YC帝国成立初期，用户zzChumo曾提议书写YC帝国历史书，可由于学业问题成了当年一个大遗憾。直到2022暑假初期，Maggie和4n0n4me提议写一个聊天室历史书，才使这段充满遗憾的历史重现展现在众人面前。
 
 &emsp;2022年暑假中期，用户DPG改进轰炸姬，诞生了根据进出原理刷识别码的机器人，加上有用户建议用识别码交换东西（典型为用识别码交换识别码，或者用钱购买识别码），正式掀起了识别码收集（交易）热潮。详见[识别码热潮](#识别码热潮)。
 
@@ -503,7 +504,7 @@ nickname123
 
 &emsp;一开始，黑聊的用户极少，但ee、黑茶等用户长期在XC挂机，为站长MelonFish提供精神支持，使MelonFish坚持维护。在大部分功能完善后的4月10日左右，MelonFish出动机器人XBot，在HC对加入的用户发送XC链接进行引流，史称XBot大引流，在这之后XC用户多了起来。此时XC已经发展出许多有特色的功能，如头像、afk功能等。直至今日，XC的/help命令栏中的命令是所有HC系列聊天室中最多的，可玩性也是最高的。
 
-&emsp;XC首部同人作品，是XC用户MRGAO、4n0n4me邀请~~谷歌翻译~~、~~AI续写~~写的李桂鱼传史和李桂鱼修仙记，小说曾在刚上架时放置在XC主页上，后来~~因很毁形象而~~被MelonFish撤掉了。目前依然有[《李桂鱼修仙记》备份](https://home.osww.cn/《李桂鱼修仙记》.zip)。
+&emsp;XC首部同人作品，是MRGAO、4n0n4me邀请~~谷歌翻译~~、~~AI续写~~写的李桂鱼传史和李桂鱼修仙记，小说曾在刚上架时放置在XC主页上，后来~~因很毁形象而~~被MelonFish撤掉了。目前依然有[《李桂鱼修仙记》备份](https://home.osww.cn/《李桂鱼修仙记》.zip)。
 
 &emsp;在XC聊天室前期，作为第二个来到聊天室的用户黑茶（DarkT），带头玩起了24字昵称。即在HC系列聊天室中昵称设置不能超过24个字的情况下，~~凑字数~~如诗句般将昵称凑到24个字。DarkT、zzChumo、ee三人在XC玩起了“昵称串串烧”，即把其他用户的昵称串起来组成一句24字的句子作为新昵称。
 
@@ -561,7 +562,7 @@ nickname123
 ### XC与Minecraft
 &emsp;2022年五一假期第一天，XC的站长MelonFish为了吃ee和13的瓜，搭建了一个Minecraft服务器。服务端原本处于1.12.2版本，后来升级为1.13.2版本。虽然MelonFish希望ee和13能一同在服务器中~~撒瓜~~游玩，但13进入游戏时有困难，导致鱼没有吃到很多瓜。
 
-&emsp;MelonFish、ee、4n0n4me、DPG、MRGAO、zzChumo、13、Light、黎又亦（MelonFish现实中一位朋友）等用户都游玩过此服务器。B站的J（XC用户）因为在服务器中多次发送无意义消息，例如“哈哈哈，我们暂时回来了！”、炸毁房子、杀了ee的四条狗、恶意攻击服务器里其他用户等行为，最终被MelonFish从服务器封禁。
+&emsp;MelonFish、ee、4n0n4me、DPG、MRGAO、zzChumo、13、Light、黎又亦（MelonFish现实中一位朋友）等用户都游玩过此服务器。Bzhan5J因为在服务器中多次发送无意义消息，例如“哈哈哈，我们暂时回来了！”、无意间引苦力怕炸毁房子、杀了ee的四条狗、随意攻击服务器里其他用户等行为，最终被MelonFish从服务器封禁。
 
 &emsp;最初，MelonFish、ee、4n0n4me等玩家住在4n0n4me发现的雪屋里，雪屋所在的地方后来被称为“雪镇”。
 
@@ -921,7 +922,7 @@ but it works
 
 
 ### 乱世大迭代
-&emsp;在大动乱时代，XC发生了翻天覆地的变化。曾经，“XC迭代”这一章节作为独立事件出现在历史书里，后被整合至[XC聊天室](#xc聊天室)。与此相比截然不同的是本时代末的XC大迭代，曾经的XC老管理ee、Untitled、4n0n4me、Hack4r、Dawnboy、Maggie等人被撤职，留下的管理只有主要维护人员Mr\_Zhang、收了鱼贿赂的QiuLingYan、不参与事件的MuRongPIG等。此外，在洛谷拉用户的OIer酱、在CSC拉用户的azhe（阿哲）、在JSPVZ拉用户的B站的J等被任命为新的管理员。
+&emsp;在大动乱时代，XC发生了翻天覆地的变化。曾经，“XC迭代”这一章节作为独立事件出现在历史书里，后被整合至[XC聊天室](#xc聊天室)。与此相比截然不同的是本时代末的XC大迭代，曾经的XC老管理ee、Untitled、4n0n4me、Hack4r、Dawnboy、Maggie等人被撤职，留下的管理只有主要维护人员Mr\_Zhang、收了鱼贿赂的QiuLingYan、不参与事件的MuRongPIG等。此外，在洛谷拉用户的OIer酱、在CSC拉用户的azhe（阿哲）、在JSPVZ拉用户的Bzhan5J等被任命为新的管理员。
 
 &emsp;在这起事件里，对XC感到失望的老成员选择离开XC，回归HC。星聊、TC、ZC、LC等地也被多次作为“战争避难所”候补，专门用于躲避从XC来的Mr\_Zhang、MelonFish等装作机器人的眼线。
 
@@ -952,13 +953,15 @@ but it works
 
 
 ### JSPVZ事件
-&emsp;2022年8月16日下午，JSPVZ用户B站的J、snose、虚无信者、s5x（sex）等人在XC的?jspvz聊天，B站的J邀请XC管理员们去?jspvz看JSPVZ内部大战。此后，Mr\_Zhang查到了虚无信者的IP，另一名XC管理FBR（QiuLingYan）未经当事人同意，谎称关了记录信息，在?jspvz公布了虚无信者的IP，导致虚无信者IP短暂泄露。
+&emsp;2022年8月16日下午，Bzhan5J、snose、虚无信者（jspvz玩家）、寒冰投手（jspvz玩家）等人在XC的?jspvz聊天，Bzhan5J将?jspvz发送至了公共聊天室“?xq102210”，之后2名管理员（Mr\_Zhang和QiuLingYan）来到?jspvz，而XC进入后会显示IP属地，寒冰投手、虚无信者在讨论IP和IP属地相关的问题，而那2名管理员查到了虚无信者的IP，管理员Mr\_Zhang私信给他了他的IP，但管理员“QiuLingYan”未经允许公开了IP，谎称关了记录信息。
 
-&emsp;第二天，B站的J在B站发了关于声讨XC管理的[视频](https://www.bilibili.com/video/BV1Te4y1f7zg/)，就IP泄露问题向XC讨要说法。MelonFish在视频中做出了解释，但目前此视频已被B站的J删除。以下是MelonFish在评论中的原话（由ee添加了换行）。
+&emsp;寒冰投手在必应上搜索了有关“XChat（此XC非彼XC）”的丑闻，得寸进尺，公然辱骂XC聊天室，被Mr\_Zhang封禁。
 
+&emsp;2022年8月17日，寒冰投手仍然辱骂XC，频率增加。snose和寒冰投手发生小规模骂战不久。下午，Bzhan5J在B站发了关于此次事件的视频（已被删除）。MelonFish在视频中做出了解释，但目前此视频已被Bzhan5J删除。大约是在晚上，在JSPVZ，寒冰投手注册新号“XChat”钓鱼，并登录自己的jspvz账号“B站的J的小娇妻”来侮辱Bzhan5J，之后，寒冰投手又说自己曾经想象了一些结局：冷处理、踢皮球、人肉搜索、反殖民、发送死亡威胁、盗取身份证号、盗取支付密码等，传播JSPVZ-XChat大战思想。
+
+&emsp;以下是MelonFish在视频删除之前的评论：
 ```
-⭐ Admin fishh
-@Ellen 原文：各位jspvz的朋友们，你们好，我是xc站长。
+各位jspvz的朋友们，你们好，我是xc站长。
 对于泄露ip的事情，我先对jspvz的各位道歉，并保证类似的事件不会再次发生。
 不过可以了解的是，目前正常人不可能再用固定ip了，
 所谓静态ip很可能是长时间ip没有过更改，但是不代表是静态ip，
@@ -971,27 +974,18 @@ but it works
 
 > 好似，开香槟咯。 ——zzChumo 2022年8月
 
+
 > 咱就说这些人连网络常识都没有就说泄露IP的严重性？ ——Mr_Zhang 2022年9月7日
+
 
 > 咱看好了行不，冲突点在于“未经当事人同意就公布IP”，而不是IP重要性（ ——ee 2022年9月9日
 
-&emsp;晚上，s5x在必应上搜索了有关“XChat（此XC非彼XC）”的丑闻，得寸进尺，公然辱骂XC聊天室，被Mr\_Zhang封禁。
 
 > 冷知识，关于聊天室重名，国内有个诈骗软件叫星聊，国外有个色情软件叫XChat，此星聊和XChat，非同历史书中所提到的聊天室星聊及XChat。 ——ee 2022年8月
 
-&emsp;2022年8月17日，s5x仍然辱骂XC，频率增加。snose和s5x发生小规模骂战不久，在JSPVZ聊天区，s5x注册新号“XChat”钓鱼，并登录自己小号“B站的J的小娇妻”来侮辱B站的J，之后，s5x又说自己曾经想象了一些结局：冷处理、踢皮球、人肉搜索、反殖民、发送死亡威胁、盗取身份证号、盗取支付密码等，传播JSPVZ-XChat大战思想。
-
-&emsp;由于滥用权限，QiuLingYan的管理被撤销。2022年8月26日，QiuLingYan在视频的评论中侮辱了B站的J，甚至没过几天便重新获得管理。B站的J向QiuLingYan质问该年8月16日的IP问题，QiuLingYan却逃避问题，还嘲讽`“B站的J只有4年级”`。
-
-&emsp;B站的J、snose两人与QiuLingYan展开骂战，QiuLingYan将snose禁言。MelonFish介入本事件，B站的J和snose发现XC管理QiuLingYan疑似滥用权限将XC聊天室?jspvz频道的记录清除，试图掩盖证据。讽刺的是，在其以前泄露IP时声称“已关闭记录”时实则并未关闭，而在这次冲突中，他将记录自己发出的消息功能关闭了。
-
-&emsp;2022年8月26日，QiuLingYan在视频的评论中侮辱了B站的J，甚至没过几天便重新获得管理。B站的J向QiuLingYan质问该年8月16日发生的JSPVZ事件，QiuLingYan却逃避问题，还嘲讽`“B站的J只有4年级”`。
+&emsp;2022年8月26日，Bzhan5J、snose两人与QiuLingYan展开骂战，QiuLingYan将snose禁言。MelonFish介入本事件，Bzhan5J和snose发现XC管理QiuLingYan疑似滥用权限将XC聊天室?jspvz频道的记录清除，试图掩盖证据。讽刺的是，在其以前泄露IP时声称“已关闭记录”时实则并未关闭，而在这次冲突中，他将记录自己发出的消息功能关闭了。
 
 > 明明QiuLingYan也是小学生uwu ——ee
-
-&emsp;B站的J、snose两人与QiuLingYan展开骂战，QiuLingYan将两人禁言。后MelonFish介入本事件，B站的J和snose发现XC管理QiuLingYan滥用权限，将历史记录中自己发言的部分删掉，且将XC聊天室?jspvz频道的记录彻底删除，试图掩盖证据。XC名声在JSPVZ进一步恶化。
-
-&emsp;本节内容转载并修改自当时的JSPVZ社区Wiki。
 
 ### lol事件
 &emsp;HC的管理员lol（此处以及**本章节**的下文都不是指的Laugh out loud缩写）一向被认为对中国人不友好，曾经发表反华言论与各种对中国用户不利的言论。本节所述的是2022年8月下旬的lol事件。
@@ -2033,9 +2027,6 @@ Auto banned hash H2Z2n87sNqfsI35 for 60.0s
 - USBot事件
    - [USBot事件.png](https://book.paperee.guru/chatroom-history-book/USBot事件.png)（by.ee）
 
-- JSPVZ事件
-   - [12323434.png](https://static.wikia.nocookie.net/jspvz/images/6/69/12323434.png/revision/latest?cb=20220817015014&path-prefix=zh)（by.B站的J）
-
 
 ### 常用语
 - 聊天室相关
@@ -2047,11 +2038,11 @@ Auto banned hash H2Z2n87sNqfsI35 for 60.0s
    - ZC：[zzChat](https://zzchat.cf/)，智聊（~~全名智障聊天室~~）。
    - LC：[Light's hack.chat](http://43.142.118.149:6059/)，Light的聊天室，使用Python后端。
    - ZHC：[ZhangChat](https://gitee.com/MrZhang365/zhangchat)，小张聊天室。
-   - xq: XC的**xq**102210频道，也指线圈。
+   - xq: XC的**xq**102210频道，也可指线圈。
    - lo：HC的**lo**unge频道，多为国人。
    - yc：HC的**y**our-**c**hannel频道，多为国人。
    - ycl：HC的**y**our-**c**hannel**l**频道。
-   - pro：HC的**pro**gramming频道，外国人的频道。
+   - pro：HC的**pro**gramming频道，多为外国人。
 
 - 聊天室术语
    - ban：完全封禁用户IP地址。
@@ -2069,19 +2060,18 @@ Auto banned hash H2Z2n87sNqfsI35 for 60.0s
    - bf：一个臭名远扬的用户。
    - lbw：**l**u**b**en**w**ei，卢本伟（**这里不是指的游戏主播**），一个无可救药的罪人。
    - yxy：**y**u**x**iao**y**e，於小夜，一个道德败坏的小学生。
-   - s5x：又名sex，一个在JSPVZ经常钓鱼的玩家，曾经侮辱过XC。
-   - mrz：小写指**M**u**R**ong**PIG**，慕容猪。
-   - MRZ：大写指**Mr**\_**Z**hang，小张。
+   - 寒冰投手：又名s5x，一个JSPVZ玩家。
+   - mrz：可能指**M**u**R**ong**PIG**，慕容猪和**Mr**\_**Z**hang，小张。
 
 - 机器人
-   - zh：可能是机器人**Z**hang**H**elper的缩写，也可译为“中文”。
+   - zh：可能指机器人**Z**hang**H**elper，也可指“中文”。
    - ab：**AB**ot，Hack4r的机器人。
    - hb：**HB**ot，ABot的前身。
    - ob：**OB**ot，Outlier的机器人，也有用户名为“OBot”。
    - zb：z**zb**ot，zzChumo根据Foolishbird制作。
    - eb：e**eb**ot，ee根据Foolishbird制作。
    - reb：**r**e**eb**ot，名为蓉儿的eebot，xuanwei根据eebot改写而成。
-   - usb：**USB**ot，MelonFish放置于yc扰乱环境的机器人，并非USB接口。
+   - usb：**USB**ot，在聊天室中一般指MelonFish放置于yc扰乱环境的机器人，也可指usb接口（可根据语境判断）。
    - bu_ug：？的前身，意指“BUG”。
    - bo_od：MuRongPIG的机器人。
    - do_ob：Henrize的机器人。
