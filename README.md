@@ -30,7 +30,7 @@
 
 
 ## 特别感谢
-- 提出建议的：[Mr\_Zhang](https://mrzhang365.github.io/)、[QiuLingYan](https://qiu-lingyan.github.io/1)、[Light](https://gitee.com/BirdingLight)、[MelonFish](https://xq.kzw.ink/)、Bzhan5J、snose、[MuRongPIG](https://github.com/MuRongPIG)、emankicN、Hack4r and you.
+- 提出建议的：[Mr\_Zhang](https://mrzhang365.github.io/)、[QiuLingYan](https://qiu-lingyan.github.io/1)、[Light](https://gitee.com/BirdingLight)、[MelonFish](https://xq.kzw.ink/)、Bzhan5J、[MuRongPIG](https://github.com/MuRongPIG)、emankicN、Hack4r and you.
 
 
 ## 更新内容
